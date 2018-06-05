@@ -1,2 +1,10 @@
+lang: de-CH
+
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: CoderDojo Luzern @ bbv
+
+plugins: # previsously gems
+  - jekyll-paginate
+
+search: true
+search_full_content: true
