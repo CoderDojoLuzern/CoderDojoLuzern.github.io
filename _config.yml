@@ -1,10 +1,11 @@
-lang: de-CH
-
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title: CoderDojo Luzern @ bbv
+description: 'CoderDojo in Luzern'
 
-plugins: # previsously gems
-  - jekyll-paginate
+baseurl: /
 
-search: true
-search_full_content: true
+highlighter: rouge
+logo: false
+paginate: 15
+
+plugins: [jekyll-gist]
+permalink: /:year/:month/:title.html
