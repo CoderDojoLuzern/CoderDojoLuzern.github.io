@@ -6,11 +6,11 @@ image: /assets/logo/CDRoundelWithLongText-LtBg.png
 
 ---
 
-## Wilkommen zur Website von CoderDoji Luzern @ bbv
+## Wilkommen zur Website von CoderDojo Luzern @ bbv
 
 ### Links
 [CoderDojo](https://coderdojo.com/)
-[CoderDojo resources] (http://kata.coderdojo.com/wiki/Home_Page)
+[CoderDojo resources](http://kata.coderdojo.com/wiki/Home_Page)
 
 
 
