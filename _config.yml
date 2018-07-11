@@ -1,11 +1,13 @@
+# Site settings
 title: CoderDojo Luzern @ bbv
+
+email: coderdojo.luzern@gmail.com
 description: 'CoderDojo in Luzern'
-
 baseurl: /
+url: "https://coderdojoluzern.github.io" # the base hostname & protocol for your site
+github_username:  CoderDojoLuzern
 
-highlighter: rouge
-logo: false
-paginate: 15
+# Build settings
+markdown: kramdown
 
-plugins: [jekyll-gist]
-permalink: /:year/:month/:title.html
+exclude: ["bin", "bower_components", "jekyll", "node_modules", "obj", "styles/sass/*.*", "typings", "coderdojo-linz.*", "*.json", "app.*", "Gulpfile.js"]
