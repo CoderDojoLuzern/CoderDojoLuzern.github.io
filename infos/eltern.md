@@ -84,6 +84,10 @@ Begleitpersonen sind natürlich herzlich eingeladen, als Mentoren oder anderweit
 
 Als Programmierclub möchten wir natürlich auch moderne Wege zur Kommunikation mit Teilnehmern, Eltern, Mentoren und Medien nutzen (z.B. Blogs, Facebook, Twitter). Sollten Sie keine Fotos Ihres Kindes wünschen, bitten wir Sie um einen entsprechenden Hinweis persönlich beim CoderDojo oder per Email ([Kontaktinformationen](/kontakt.html)).
 
+Aus rechtlichen Gründen legen wir ihnen bei der Anmeldebstätigung zwei Einverständniserklärungen bei und bitten Sie diese ausgefüllt und unterschrieben beim ersten Besuch mitzunehmen. Die neusten Versionen können sie auch hier herunterladen:
+- [Einverständniserklärung Medien](/infos/EinverstaendniserklaerungFotosVideos.pdf){:target="_blank"}
+- [Einverständniserklärung Teilnahme](/infos/EinverstaendniserklaerungTeilnahme.pdf){:target="_blank"}
+
 
 ## Wann kann man einsteigen? ##
 
@@ -96,7 +100,7 @@ Es sind immer mehrere Mentoren anwesend, so können wir sowohl auf Anfänger als
 
 **Grundsätzlich schon. Der Laptop muss aber nicht besonders schnell sein. Es ist egal, ob er mit Windows, Mac OS oder Linux betrieben wird. iPads, Android-Tablets oder Smartphones reichen nicht aus.**
 
-Falls ein Kind teilnehmen möchte, das keinen eigenen Laptop mitbringen kann, nehmen Sie bitte mit uns [Kontakt](/kontakt.html) auf. Wir haben eine limitierte Anzahl an Geräten, die wir während der CoderDojos zur Verfügung stellen können.
+Falls ein Kind teilnehmen möchte, das keinen eigenen Laptop mitbringen kann, nehmen Sie bitte mit uns [Kontakt](/kontakt.html) auf und geben sie es bei der ersten [Anmeldung](/anmeldung.html){:target="_blank"} an. Wir haben eine limitierte Anzahl an Geräten, die wir während der CoderDojos zur Verfügung stellen können.
 
 
 ## Neugierig geworden?
