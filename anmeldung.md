@@ -23,9 +23,7 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
 1. Eine Mentorin oder ein Mentor vom CoderDojo Luzern zeigt dir, wie das CoderDojo funktioniert und gibt dir Tipps, womit und wie du starten könntest.
 
 ## <a name="form" />Anmeldung
-TBD
 
-<!--
 <div class="row registration-form">
   <div class="col-sm-10 col-md-8 col-lg-6">
     <div class="card card-block">
@@ -37,27 +35,21 @@ TBD
             <h3>Fehler bei der Anmeldung</h3>
             <p>Die Anmeldung ist leider fehlgeschlagen. Bitte kontaktiere uns unter <a href="mailto:coderdojo.luzern@gmail.com">coderdojo.luzern@gmail.com</a>.</p>
         </div>
-        <form class="registration" id="registration-form">
+        <form class="registration" id="registration-form" method="POST" action="https://formspree.io/coderdojo.luzern@gmail.com">
             <h3>Ich möchte zum ersten Mal zum CoderDojo kommen</h3>
             <div class="form-group">
-                <label for="event">Termin</label>
-                <select id="event" class="form-control">
-                </select>
-                <div style="padding-top: 15px"><small><small>Der Ort kann sich in seltenen Fällen ändern. Bitte überprüfe einige Tage vor der Veranstaltung unter <a href="termine.html" target="_blank">Termine</a>, ob der Veranstaltungsort geändert wurde.</small></small></div>
-            </div>
-            <div class="form-group">
                 <label for="givenName">Vorname</label>
-                <input type="text" class="form-control" id="givenName" required="required"
+                <input name="Vorname" type="text" class="form-control" id="givenName" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte den Vornamen des Teilnehmers an.')" oninput="setCustomValidity('')">
             </div>
             <div class="form-group">
                 <label for="familyName">Nachname</label>
-                <input type="text" class="form-control" id="familyName" required="required"
+                <input name="Nachname" type="text" class="form-control" id="familyName" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte den Nachnamen des Teilnehmers an.')" oninput="setCustomValidity('')">
             </div>
             <div class="form-group">
                 <label for="gender">Mädchen / Junge</label>
-                <select id="gender" class="form-control" required="required"
+                <select name="Geschlecht" id="gender" class="form-control" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte an, ob der Teilnehmer ein Mädchen oder ein Junge ist.')" oninput="setCustomValidity('')">
                     <option value="" disabled selected></option>
                     <option value="f">Mädchen</option>
@@ -66,7 +58,7 @@ TBD
             </div>
             <div class="form-group">
                 <label for="yearOfBirth">Geburtsjahr</label>
-                <select id="yearOfBirth" class="form-control" required="required"
+                <select name="Geburtsjahr" id="yearOfBirth" class="form-control" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte das Geburtsjahr des Teilnehmers an.')" oninput="setCustomValidity('')">
                     <option value=""></option>
                     <option value="2011">2011</option>
@@ -84,7 +76,7 @@ TBD
             </div>
             <div class="form-group">
                 <label for="rentalNotebook">Ich brauche ein Leih-Notebook</label>
-                <select id="rentalNotebook" class="form-control" required="required"
+                <select name="Braucht ein Notebook" id="rentalNotebook" class="form-control" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte an, ober der Teilnehmer ein Leih-Notebook braucht.')" oninput="setCustomValidity('')">
                     <option value=""></option>
                     <option value="no">Nein</option>
@@ -93,9 +85,10 @@ TBD
             </div>
             <div class="form-group">
                 <label for="email">Email Adresse</label>
-                <input type="email" class="form-control" id="email" required="required"
+                <input name="Email" type="email" class="form-control" id="email" required="required"
                     oninvalid="this.setCustomValidity('Gib uns bitte eine Email-Adresse, unter dir wir dich bei Fragen oder Termin-Änderungen erreichen können.')" oninput="setCustomValidity('')">
             </div>
+            <input type="hidden" name="_next" value="/anmeldung-erfolgreich" />
             <div class="pull-right">
                 <button type="submit" class="btn btn-material-luzern-blue">Anmelden</button>
             </div>
@@ -103,7 +96,7 @@ TBD
     </div>
   </div>
 </div>
--->
+
 
 ## <a name="bbv" />Ort
 
