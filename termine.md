@@ -12,14 +12,8 @@ title: Termine
 
 <table class="table" id="eventsTable">
 	<thead>
-		<tr>
-			<th>Datum</th>
-			<th>Typ</th>
-			<th>Ort</th>
-		</tr>
+<p><iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;hl=de&amp;bgcolor=%23ffffff&amp;src=coderdojo.luzern%40gmail.com&amp;color=%23060D5E&amp;ctz=Europe%2FZurich" style="border-width:0" width="100%" frameborder="0" scrolling="no"></iframe></p>
 	</thead>
 	<tbody>
 	</tbody>
 </table>
-
-<p class="loadingText">Noch keine Termine.</p>
