@@ -106,9 +106,9 @@ Vielen Dank an die [bbv Software Services AG](https://www.bbv.ch){:target="_blan
 
 
 <script language="javascript">
-$.get("https://www.googleapis.com/calendar/v3/calendars/coderdojo.luzern@gmail.com/events?maxResults=4&key=AIzaSyDuL2gUksesWq33UDNoACL4mdyjQcsS6vk", function(data) {
+$.get("https://www.googleapis.com/calendar/v3/calendars/coderdojo.luzern@gmail.com/events?key=AIzaSyDuL2gUksesWq33UDNoACL4mdyjQcsS6vk", function(data) {
     data.items.filter(item => item && item.hasOwnProperty('status') && item.status !== 'cancelled').slice(0, 3).forEach(function(item) {
-         $("#event").append("<option value=\"" + item.id + "\">" + (new moment(item.start.dateTime)).format("DD. MMMM YYYY") + " - " + (item.location ? item.location : "bbv Software Services AG Luzern") + "</option>");
+         $("#event").append("<option value=\"" + item.id + "\">" + (new moment(item.start.dateTime)).format("DD. MMMM YYYY - hh:mm") + " Uhr - " + (item.location ? item.location : "bbv Software Services AG Luzern") + "</option>");
     });
 
     var currentYear = new moment().year();
