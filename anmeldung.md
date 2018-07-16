@@ -38,6 +38,12 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
         <form class="registration" id="registration-form" method="POST" action="https://formspree.io/coderdojo.luzern@gmail.com">
             <h3>Ich möchte zum ersten Mal zum CoderDojo kommen</h3>
             <div class="form-group">
+              <label for="event">Termin</label>
+              <select name="Termin" id="event" class="form-control">
+              </select>
+              <div style="padding-top: 15px"><small><small>Der Ort kann sich in seltenen Fällen ändern. Bitte überprüfe einige Tage vor der Veranstaltung unter <a href="termine.html" target="_blank">Termine</a>, ob der Veranstaltungsort geändert wurde.</small></small></div>
+            </div>
+            <div class="form-group">
                 <label for="givenName">Vorname</label>
                 <input name="Vorname" type="text" class="form-control" id="givenName" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte den Vornamen des Teilnehmers an.')" oninput="setCustomValidity('')">
@@ -60,18 +66,7 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
                 <label for="yearOfBirth">Geburtsjahr</label>
                 <select name="Geburtsjahr" id="yearOfBirth" class="form-control" required="required"
                     oninvalid="this.setCustomValidity('Gib bitte das Geburtsjahr des Teilnehmers an.')" oninput="setCustomValidity('')">
-                    <option value=""></option>
-                    <option value="2011">2011</option>
-                    <option value="2010">2010</option>
-                    <option value="2009">2009</option>
-                    <option value="2008">2008</option>
-                    <option value="2007">2007</option>
-                    <option value="2006">2006</option>
-                    <option value="2005">2005</option>
-                    <option value="2004">2004</option>
-                    <option value="2003">2003</option>
-                    <option value="2002">2002</option>
-                    <option value="2001">2001</option>
+                    <option value="" disabled selected></option>
                 </select>
             </div>
             <div class="form-group">
@@ -109,14 +104,11 @@ Der Ort kann sich in seltenen Fällen ändern. Bitte überprüfe einige Tage vor
 
 Vielen Dank an die [bbv Software Services AG](https://www.bbv.ch){:target="_blank"} für die grossartigen Räumlichkeiten, die wir zur Verfügung gestellt bekommen!
 
-<script language="javascript">
-/*
-TODO
 
-$.get("...", function(data) {
-    //  && (new moment(item.date)).format("YYYY-MM-DD") != "2018-06-08"
-    data.filter(item => item.type != "playground").slice(0, 4).forEach(function(item) {
-         $("#event").append("<option value=\"" + item._id + "\">" + (new moment(item.date)).format("DD. MMMM YYYY") + " - " + (item.location ? item.location : "Wissensturm") + "</option>");
+<script language="javascript">
+$.get("https://www.googleapis.com/calendar/v3/calendars/coderdojo.luzern@gmail.com/events?maxResults=4&key=AIzaSyDuL2gUksesWq33UDNoACL4mdyjQcsS6vk", function(data) {
+    data.items.filter(item => item && item.hasOwnProperty('status') && item.status !== 'cancelled').slice(0, 3).forEach(function(item) {
+         $("#event").append("<option value=\"" + item.id + "\">" + (new moment(item.start.dateTime)).format("DD. MMMM YYYY") + " - " + (item.location ? item.location : "bbv Software Services AG Luzern") + "</option>");
     });
 
     var currentYear = new moment().year();
@@ -124,46 +116,4 @@ $.get("...", function(data) {
         $("#yearOfBirth").append("<option value=\"" + i.toString() + "\">" + i.toString() + "</option>");
     }
 });
-
-$("#registration-form").submit(function () {
-    var url = "...";
-
-    var eventId = $("#event").val();
-
-    var registration = {
-        "eventId": eventId,
-        "eventDate": $("#event option:selected").text(),
-        "participants": {
-            "email": $("#email").val(),
-            "givenName": $("#givenName").val(),
-            "familyName": $("#familyName").val(),
-            "gender": $("#gender").val(),
-            "yearOfBirth": $("#yearOfBirth").val()
-        },
-        "needsComputer": $("#rentalNotebook").val() == "yes" ? true : false
-    };
-
-    $.ajax({
-        url: url,
-        type: "POST",
-        data: JSON.stringify(registration),
-        contentType:"application/json; charset=utf-8",
-        dataType: "json",
-        success: function(data) {
-            $(".registration-finished").removeClass("hide");
-            $(".registration").addClass("hide");
-        }
-    }).fail(function(jqXHR, textStatus) {
-        if (textStatus == "parsererror") {
-            $(".registration-finished").removeClass("hide");
-            $(".registration").addClass("hide");
-        } else {
-            $(".registration-error").removeClass("hide");
-            $(".registration").addClass("hide");
-        }
-    });
-
-    return false;
-});
-*/
 </script>
