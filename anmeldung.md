@@ -84,6 +84,7 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
                     oninvalid="this.setCustomValidity('Gib uns bitte eine Email-Adresse, unter dir wir dich bei Fragen oder Termin-Änderungen erreichen können.')" oninput="setCustomValidity('')">
             </div>
             <input type="hidden" name="_next" value="/anmeldung-erfolgreich" />
+            <input type="hidden" name="_language" value="de" />
             <div class="pull-right">
                 <button type="submit" class="btn btn-material-luzern-blue">Anmelden</button>
             </div>
