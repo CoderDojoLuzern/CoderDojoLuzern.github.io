@@ -39,7 +39,7 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
             <h3>Ich möchte zum ersten Mal zum CoderDojo kommen</h3>
             <div class="form-group">
               <label for="event">Termin</label>
-              <select name="Termin" id="event" class="form-control">
+              <select name="Termin" id="event" class="form-control" required="required">
               </select>
               <div style="padding-top: 15px"><small><small>Der Ort kann sich in seltenen Fällen ändern. Bitte überprüfe einige Tage vor der Veranstaltung unter <a href="termine.html" target="_blank">Termine</a>, ob der Veranstaltungsort geändert wurde.</small></small></div>
             </div>
@@ -109,7 +109,7 @@ Vielen Dank an die [bbv Software Services AG](https://www.bbv.ch){:target="_blan
 $.get("https://www.googleapis.com/calendar/v3/calendars/coderdojo.luzern@gmail.com/events?key=AIzaSyDuL2gUksesWq33UDNoACL4mdyjQcsS6vk", function(data) {
     const comp = (a, b) => new Date(a.start.dateTime || a.start.date).getTime() - new Date(b.start.dateTime || b.start.date).getTime();
     data.items.filter(item => item && item.hasOwnProperty('status') && item.status !== 'cancelled').sort(comp).slice(0, 3).forEach(function(item) {
-         $("#event").append("<option value=\"" + item.id + "\">" + (new moment(item.start.dateTime)).format("DD. MMMM YYYY - hh:mm") + " Uhr - " + (item.location ? item.location : "bbv Software Services AG Luzern") + "</option>");
+         $("#event").append("<option value=\"" + item.start.dateTime + "\">" + (new moment(item.start.dateTime)).format("DD. MMMM YYYY - hh:mm") + " Uhr - " + (item.location ? item.location : "bbv Software Services AG Luzern") + "</option>");
     });
 
     var currentYear = new moment().year();
