@@ -5,4 +5,4 @@ title: Kontakt
 
 # Kontakt
 
-Bei Fragen oder Anregungen schickt uns eine Mail an [coderdojo.luzern@gmail.com](mailto:icoderdojo.luzern@gmail.com).
+Bei Fragen oder Anregungen schickt uns eine Mail an [coderdojo.luzern@gmail.com](mailto:coderdojo.luzern@gmail.com).
