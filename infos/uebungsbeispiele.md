@@ -106,6 +106,7 @@ Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) f
 ## Andere Projekte Webseiten
 
 - [projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects)
+- [CodeClub projects](https://projects.raspberrypi.org/de-DE/codeclub)
 - [CoderDojo Sushi Cards](https://projects.raspberrypi.org/en/coderdojo)
 - [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card)
 
