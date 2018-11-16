@@ -103,6 +103,13 @@ Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) f
 
 1. [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
 
+## Andere Projekte Webseiten
+
+- [projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects)
+- [CoderDojo Sushi Cards](https://projects.raspberrypi.org/en/coderdojo)
+- [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card)
+
+
 ## Änderungen und Ergänzungen
 
-Möchtet ihr an den Beispielen etwas ändern? Habt ihr einen Fehler entdeckt? Möchtet ihr eigene Beispiele hinzufügen? Diese Webseite steht vollständig im Quelltext auf Github unter [...](...){:target="_blank"} zur Verfügung. Unsere regelmässigen Mentoren können jederzeit Schreibzugriff haben. Alle anderen bitten wir bei Änderungswünschen um [Pull-Requests](https://help.github.com/articles/using-pull-requests/){:target="_blank"}.
+Möchtet ihr an den Beispielen etwas ändern? Habt ihr einen Fehler entdeckt? Möchtet ihr eigene Beispiele hinzufügen? Diese Webseite steht vollständig im Quelltext auf Github unter [github.com/CoderDojoLuzern/CoderDojoLuzern.github.io](https://github.com/CoderDojoLuzern/CoderDojoLuzern.github.io/){:target="_blank"} zur Verfügung. Unsere regelmässigen Mentoren können jederzeit Schreibzugriff haben. Alle anderen bitten wir bei Änderungswünschen um [Pull-Requests](https://help.github.com/articles/using-pull-requests/){:target="_blank"}.
