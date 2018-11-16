@@ -44,7 +44,7 @@ title: Termine
 			var dateEnd = moment(new Date(event.end.dateTime));
 
 			row += "<tr>";
-			row += "<td>" + dateStart.format("dddd, DD. MMMM YYYY") + "</td>";
+			row += "<td>" + dateStart.format("dddd, Do MMM YYYY") + "</td>";
 			row += "<td>" + dateStart.format("H:mm") + " - " + dateEnd.format("H:mm") +"</td>";
 			row += "<td>";
 
