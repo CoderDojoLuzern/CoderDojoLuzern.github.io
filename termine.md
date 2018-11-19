@@ -35,7 +35,7 @@ title: Termine
 	$.get("https://www.googleapis.com/calendar/v3/calendars/coderdojo.luzern@gmail.com/events?key=AIzaSyDuL2gUksesWq33UDNoACL4mdyjQcsS6vk", function(data) {
 
 		//Compare dates
-		const comp = (a, b) => new Date(a.start.dateTime || a.start.date).getTime() - new Date(b.start.dateTime || b.start.date).getTime();
+		const comp = function(a, b){  new Date(a.start.dateTime || a.start.date).getTime() - new Date(b.start.dateTime || b.start.date).getTime(); };
 
 		data.items.sort(comp).forEach(function(event) {
 			var row = "";
