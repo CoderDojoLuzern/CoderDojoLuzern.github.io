@@ -28,7 +28,7 @@ Du bist aber auch willkommen, wenn du nur hin und wieder Zeit hast.
 
 ### Wann sind die CoderDojos in Luzern?
 
-**In der Regel <em>TBD</em>.**
+**In der Regel jeweils am letzen Sonntag Nachmittag im Monat (siehe [Termine](/termine.html)).**
 
 
 ### Woher weiss ich, ob ich als Mentor geeignet bin?
