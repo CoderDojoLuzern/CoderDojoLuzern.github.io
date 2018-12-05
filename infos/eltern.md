@@ -21,7 +21,7 @@ Gemeinsames Entdecken, Teamarbeit, [Mentoring](http://de.wikipedia.org/wiki/Ment
 
 **In der heutigen Welt sind wir von Technologie umgeben, die durch Software gesteuert wird. Programmieren ist daher eine wichtige Fähigkeit. Sie wird Ihren Kindern in der Ausbildung und manchmal auch im Alltagsleben helfen.**
 
-Im Gegensatz zu Mathematik oder Physik ist Programmieren noch kein fester Bestandteil im Schulalltag. Bei den CoderDojos lernen Kinder spielerisch Technologie und Programmieren kennen. Nebenbei werden dabei logisches Denken, Teamarbeit, Englisch u.v.m. gefördert.
+Im Gegensatz zu Mathematik oder Physik ist Programmieren noch kein fester Bestandteil im Schulalltag. Bei den CoderDojos lernen Kinder spielerisch Technologie und Programmieren kennen. Nebenbei werden dabei logisches Denken, Teamarbeit, Kommunikation, Englisch u.v.m. gefördert.
 
 Neben dem Erwerben zusätzlicher Fähigkeiten sollen CoderDojos auch die Perspektive der Kinder und Jugendlichen in Sachen Berufswahl erweitern. Gute Technikerinnen und Techniker sind sehr gefragt. In CoderDojos können Ihre Kinder herausfinden, ob ihnen ein technischer Beruf im Bereich Softwareentwicklung Spass machen könnte.
 
@@ -53,6 +53,8 @@ Für Anfänger haben wir einige spannende Projekte, die wir vorschlagen können.
 ## Was kostet die Teilnahme? ##
 
 **Nichts, kein Teilnahmegebühr, kein Abo, keine finanziellen Verpflichtungen!**
+
+***Ein wichiges Prinzip von CoderDojo ist die kostenfreie Teilnahme für alle.***
 
 Alle Mentoren und Helfer, die bei den CoderDojos mitmachen, sind Freiwillige und bekommen für ihre Tätigkeiten kein Geld. Alle eventuellen Ausgaben für die Organisation und Durchführung der CoderDojos werden mit Hilfe von [Sponsoring](/sponsoring.html) gedeckt.
 

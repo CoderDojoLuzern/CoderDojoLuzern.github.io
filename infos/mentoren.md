@@ -5,7 +5,7 @@ title: Mentoren
 
 # Wir suchen Mentoren!
 
-**Du kannst gut programmieren oder bist ein Elektronik-Crack? Dann brauchen wir dich als Mentor.**
+**Du kannst programmieren oder bist ein Elektronik-Crack? Dann brauchen wir dich als Mentor.**
 
 Als Mentoren begleiten wir in [CoderDojos](http://www.coderdojo.com "Internationale CoderDojo Webseite"){:target="_blank"} Kinder beim spielerischen Entdecken ihrer Begeisterung für Technik und Softwareentwicklung. Unsere Aufgaben sind:
 
@@ -28,7 +28,7 @@ Du bist aber auch willkommen, wenn du nur hin und wieder Zeit hast.
 
 ### Wann sind die CoderDojos in Luzern?
 
-**In der Regel jeweils am letzen Sonntag Nachmittag im Monat (siehe [Termine](/termine.html)).**
+**In der Regel jeweils am letzen Sonntag Nachmittag im Monat (siehe [Termine](/termine.html)). Wenn wir mehr Mentoren sind können wir das CoderDojo aber auch häufiger durchführen.**
 
 
 ### Woher weiss ich, ob ich als Mentor geeignet bin?

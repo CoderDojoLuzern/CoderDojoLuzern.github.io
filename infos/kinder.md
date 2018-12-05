@@ -15,7 +15,7 @@ Wolltest du immer schon wissen, wie Computer, iPad oder Smartphone funktionieren
 
 **In Japan trifft man sich in einem Dojo, um Kampfkünste wie Judo oder Karate zu üben. Beim CoderDojo treffen wir uns, um zu "coden", also zu programmieren.**
 
-Die oberste Regel im CoderDojo lautet: **Unsere Projekte sind cool!** Das CoderDojo ist keine Schule oder Nachhilfestunde. Junge [Hacker](http://ulm.ccc.de/old/chaos-seminar/hacker/hacker.pdf "Erklärung, was ein Hacker ist"){:target="_blank"} und solche, die es werden wollen, treffen sich, um gemeinsam an spannenden Projekten zu arbeiten.
+Die oberste Regel im CoderDojo lautet: **Unsere Projekte sind cool!** Das CoderDojo ist keine Schule oder Nachhilfestunde. Junge [Hacker](https://de.wikipedia.org/wiki/Hacker#Softwareentwicklung){:target="_blank"} und solche, die es werden wollen, treffen sich, um gemeinsam an spannenden Projekten zu arbeiten.
 
 Im CoderDojo habt ihr Hilfe von erwachsenen Mentoren, die viel technische Erfahrung und technisches Wissen haben. Sie begleiten euch bei den ersten Schritten. Sie liefern Ideen für eure ersten Programme. Sie sind für euch da, wenn Ihr schon erfahrener seid und eigene Projekte umsetzen möchtet.
 
@@ -49,7 +49,7 @@ Scratch ist aber nicht nur auf einfache Programme beschränkt. Wenn ihr mehr Erf
 
 Wenn ihr ein wenig erfahrener und neugierig auf die Welt des Internets seid, dann helfen wir euch, eure eigene Webseite zu bauen. Ob eigener Blog, Fotosammlung, Browser-Spiele oder - wenn ihr schon alt genug seid - Facebook-App, euren Ideen sind keine Grenzen gesetzt.
 
-Eure Mentoren helfen euch, HTML, CSS und JavaScript zu erkunden. Wir haben einige echte Vollprofis im Team, von denen ihr viel lernen könnt.
+Eure Mentoren helfen euch, HTML, CSS und JavaScript zu erkunden. 
 
 ### Für Fortgeschrittene
 
@@ -61,12 +61,13 @@ Jede Gemeinschaft braucht ein paar Regeln, damit sie funktioniert. Hier sind uns
 
 1. Wir machen coole Projekte, die Spass machen.
 1. Als Team helfen wir uns gegenseitig, wenn jemand Hilfe beim Lösen eines kniffligen Problems braucht.
-1. Das CoderDojo ist kein Treffpunkt zum Computerspielen. Wenn wir Lust auf Computerspiele haben, bauen wir sie uns selbst.
+1. Das CoderDojo ist kein Treffpunkt zum Computerspielen. Wenn wir Lust auf Computerspiele haben, bauen wir sie uns selbst. Was wir selber programmiert habt dürfen wir auch ausprobieren.
 1. Es gibt keine dummen Fragen. Etwas nicht zu wissen, ist keine Schande.
 1. Es sind auch jüngere Kinder beim CoderDojo und deshalb müssen alle Projektinhalte auch für sie geeignet sein.
 1. Wir halten uns an Gesetze und Regeln. Computerkriminalität jeder Art ist tabu.
 1. Wir gehen sorgfältig mit unseren Geräten um.
 1. Wir teilen unsere Arbeitsergebnisse, damit andere davon lernen oder darauf aufbauen können.
+1. Im CoderDojo sind alle Willkommen die sich an diese Regeln halten. Unabhängig von Geschlecht, Herkunft, Hautfarbe, Religion oder Glauben. Diskriminierung jeglicher Art wird nicht toleriert.
 
 
 ## Neugierig geworden?
