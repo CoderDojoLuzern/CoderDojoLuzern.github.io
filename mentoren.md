@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: mentoren
 title: Mentoren
 ---
-## Unsere Mentoren
-<em>TBD</em>
 
 
 ## Möchtest du Mentor werden? ##
