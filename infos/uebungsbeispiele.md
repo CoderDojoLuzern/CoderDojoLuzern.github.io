@@ -14,7 +14,6 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/scratch/hour-of-code.html)
 
 ## Scratch
-
 1. [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
 1. [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
 1. [Erzähle eine kurze Geschichte mit Scratch](/trainingsanleitungen/scratch/scratch-geschichte-katze-und-ente.html)
@@ -39,7 +38,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Finde den Weg aus dem Labyrinth (Scratch/JavaScript)](/trainingsanleitungen/scratch/scratch-labyrinth.html)
 1. [Chess - Programmiere einen Computerspieler für Schach](/trainingsanleitungen/scratch/scratch-chess.html)
 
-Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) findest die ausprogrammierten Übungsbeispiele, und kannst sie gleich einmal ausprobieren. Und du kannst deine eigenen Projekte zum Studio hinzufügen - egal ob nachprogrammiert oder Eigenkreation! Melde dich dazu bei Scratch an, und schreibe eine kurze Info mit Link auf dein Projekt in die [CoderDojo Luzern Scratch Studio Kommentare](https://scratch.mit.edu/studios/5668745/comments/). Oder gib einfach einem Mentor im CoderDojo Bescheid. Dann wird dein Programm Teil des Studios, und alle Scratcher in Luzern und weltweit können es sehen und verwenden. Dein Projekt muss öffentlich sein - klicke dazu im Projekt auf "Veröffentlichen". Um Mitglied im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) zu werden, musst du im Studio nur auf den blauen "Folgen" Button klicken.
+<!-- Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) findest die ausprogrammierten Übungsbeispiele, und kannst sie gleich einmal ausprobieren. Und du kannst deine eigenen Projekte zum Studio hinzufügen - egal ob nachprogrammiert oder Eigenkreation! Melde dich dazu bei Scratch an, und schreibe eine kurze Info mit Link auf dein Projekt in die [CoderDojo Luzern Scratch Studio Kommentare](https://scratch.mit.edu/studios/5668745/comments/). Oder gib einfach einem Mentor im CoderDojo Bescheid. Dann wird dein Programm Teil des Studios, und alle Scratcher in Luzern und weltweit können es sehen und verwenden. Dein Projekt muss öffentlich sein - klicke dazu im Projekt auf "Veröffentlichen". Um Mitglied im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) zu werden, musst du im Studio nur auf den blauen "Folgen" Button klicken. -->
 
 ## TouchDevelop
 
@@ -85,6 +84,7 @@ Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) f
 1. [Erste Schritte mit Python](/trainingsanleitungen/python/python-erste-schritte.html)
 1. [Geisterspiel](/trainingsanleitungen/python/python-geisterspiel.html)
 1. [Unsinnige Sätze](/trainingsanleitungen/python/python-unsinnige-saetze.html)
+1. Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es einige [Python Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python)
 
 ## C# (C Sharp)
 
@@ -106,8 +106,6 @@ Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) f
 ## Andere Projekte Webseiten
 
 - [projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects)
-- [CodeClub projects](https://projects.raspberrypi.org/de-DE/codeclub)
-- [CoderDojo Sushi Cards](https://projects.raspberrypi.org/en/coderdojo)
 - [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card)
 
 
