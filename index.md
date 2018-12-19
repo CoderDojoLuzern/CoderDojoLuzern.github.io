@@ -24,9 +24,7 @@ bannerimage: /images/coderdojo-banner-1.jpg
             <a href="/infos/eltern.html">Mehr Infos&nbsp;...</a>
 		</p>
 		<h3>Wann?</h3>
-    <p>Wir treffen uns meist am letzen Sonntag im Monat (<em>siehe <a href="/termine.html">Termine</a></em>). Für den ersten Besuch ist eine
-Anmeldung notwendig. Nach Erhalt eines Mitgliedsausweis ist keine Anmeldung mehr nötig. Ihr kommt wenn ihr
-Zeit und Lust habt.</p>
+    <p>Wir treffen uns meist am letzen Sonntag im Monat (<em>siehe <a href="/termine.html">Termine</a></em>). Für den ersten Besuch ist eine Anmeldung notwendig. Nach Erhalt eines Mitgliederausweises ist keine Anmeldung mehr nötig. Ihr kommt wenn ihr Zeit und Lust habt.</p>
 <p class="text-center">
   <a class="btn btn-material-luzern-blue" href="/anmeldung.html">Zur Anmeldung&nbsp;...</a>&nbsp;
   <a class="btn btn-material-luzern-blue" href="/termine.html">Nächste Termine&nbsp;...</a>
