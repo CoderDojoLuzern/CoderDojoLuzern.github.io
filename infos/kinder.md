@@ -41,7 +41,7 @@ Falls ihr erst am Anfang steht oder neue Technologien kennenlernen möchtet, mac
 
 ### Für Anfänger: [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"}
 
-Wenn du noch nie programmiert hast, lernst du als erstes ein visuelle Programmiersprache wie [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"} kennen. Man lernt damit die Grundlagen von Programmierung auf ganz einfache, grafische Art. Du kannst deine Projekte mit anderen teilen oder auf Projekten anderer aufbauen.
+Wenn du noch nie programmiert hast, lernst du als erstes ein visuelle Programmiersprache wie [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"} kennen. Man lernt damit die Grundlagen der Programmierung auf ganz einfache, grafische Art. Du kannst deine Projekte mit anderen teilen oder auf Projekten anderer aufbauen.
 
 Scratch ist aber nicht nur auf einfache Programme beschränkt. Wenn ihr mehr Erfahrung habt, könnt ihr sogar Spiele entwickeln und diese im Internet eurer Familie oder euren Freunden zum Ausprobieren geben.
 
@@ -57,7 +57,15 @@ Im CoderDojo könnt ihr natürlich auch professionelle Programmiersprachen wie P
 
 ## Die Regeln im CoderDojo
 
-Jede Gemeinschaft braucht ein paar Regeln, damit sie funktioniert. Hier sind unsere CoderDojo Regeln:
+Jede Gemeinschaft braucht ein paar Regeln, damit sie funktioniert.
+Die älteste und wichtigste CoderDojo Regel lautet:
+
+### Sei Cool !!
+ > „Helfen, Teilen, Unterstützen, Ermutigen, Zusammenarbeiten und nett zu sein ist sehr cool.<br>
+ > Mobbing, Lügen, Zeitverschwenden und das Dojo zu stören, wird als uncool angesehen.“<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_CoderDojo-Mitbegründer Bill Liao_
+
+Unsere weiteren CoderDojo Regeln lauten:
 
 1. Wir machen coole Projekte, die Spass machen.
 1. Als Team helfen wir uns gegenseitig, wenn jemand Hilfe beim Lösen eines kniffligen Problems braucht.
