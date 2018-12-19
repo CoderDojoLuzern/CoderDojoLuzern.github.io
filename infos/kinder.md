@@ -15,7 +15,7 @@ Wolltest du immer schon wissen, wie Computer, iPad oder Smartphone funktionieren
 
 **In Japan trifft man sich in einem Dojo, um Kampfkünste wie Judo oder Karate zu üben. Beim CoderDojo treffen wir uns, um zu "coden", also zu programmieren.**
 
-Die oberste Regel im CoderDojo lautet: **Unsere Projekte sind cool!** Das CoderDojo ist keine Schule oder Nachhilfestunde. Junge [Hacker](https://de.wikipedia.org/wiki/Hacker#Softwareentwicklung){:target="_blank"} und solche, die es werden wollen, treffen sich, um gemeinsam an spannenden Projekten zu arbeiten.
+Die oberste Regel im CoderDojo lautet: **Unsere Projekte sind cool!** Das CoderDojo ist keine Schule oder Nachhilfestunde. Junge Ninja, so nennt man die 7-17 jährigen die das CoderDojo besuchen, treffen sich, um gemeinsam an spannenden Projekten zu arbeiten.
 
 Im CoderDojo habt ihr Hilfe von erwachsenen Mentoren, die viel technische Erfahrung und technisches Wissen haben. Sie begleiten euch bei den ersten Schritten. Sie liefern Ideen für eure ersten Programme. Sie sind für euch da, wenn Ihr schon erfahrener seid und eigene Projekte umsetzen möchtet.
 
@@ -25,8 +25,8 @@ Im CoderDojo habt ihr Hilfe von erwachsenen Mentoren, die viel technische Erfahr
 **Luzerner CoderDojos finden in der Regel monatlich statt. Ihr kommt vorbei, wenn ihr Lust und Zeit habt.**
 
 Wenn ihr regelmässig kommt, freut uns das besonders. Es gibt aber keine Verpflichtung, bei jedem Termin dabeizusein. Ihr kommt wenn ihr Zeit und Lust habt.<br/>
-<!--<a class="btn btn-material-luzern-blue" href="/termine.html">Nächste Termine&nbsp;...</a>-->
-<!--<a class="btn btn-material-luzern-blue" href="/anmeldung.html">Zur Anmeldung&nbsp;...</a>&nbsp;-->
+<a class="btn btn-material-luzern-blue" href="/termine.html">Nächste Termine&nbsp;...</a>
+<a class="btn btn-material-luzern-blue" href="/anmeldung.html">Zur Anmeldung&nbsp;...</a>
 
 Bitte schaut mit euren Eltern die [Informationen für Eltern](eltern.html) aufmerksam durch. Falls Ihr jünger als 13 Jahre alt seid, muss eine erwachsene Begleitperson mit euch zum CoderDojo kommen und die ganze Zeit anwesend bleiben.
 
@@ -41,7 +41,7 @@ Falls ihr erst am Anfang steht oder neue Technologien kennenlernen möchtet, mac
 
 ### Für Anfänger: [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"}
 
-Wenn du noch nie programmiert hast, lernst du als erstes [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"} kennen. Man lernt damit die Grundlagen von Programmierung auf ganz einfache, grafische Art. Du kannst deine Projekte mit anderen teilen oder auf Projekten anderer aufbauen.
+Wenn du noch nie programmiert hast, lernst du als erstes ein visuelle Programmiersprache wie [Scratch](https://scratch.mit.edu/ "Homepage von Scratch"){:target="_blank"} kennen. Man lernt damit die Grundlagen von Programmierung auf ganz einfache, grafische Art. Du kannst deine Projekte mit anderen teilen oder auf Projekten anderer aufbauen.
 
 Scratch ist aber nicht nur auf einfache Programme beschränkt. Wenn ihr mehr Erfahrung habt, könnt ihr sogar Spiele entwickeln und diese im Internet eurer Familie oder euren Freunden zum Ausprobieren geben.
 
@@ -49,7 +49,7 @@ Scratch ist aber nicht nur auf einfache Programme beschränkt. Wenn ihr mehr Erf
 
 Wenn ihr ein wenig erfahrener und neugierig auf die Welt des Internets seid, dann helfen wir euch, eure eigene Webseite zu bauen. Ob eigener Blog, Fotosammlung, Browser-Spiele oder - wenn ihr schon alt genug seid - Facebook-App, euren Ideen sind keine Grenzen gesetzt.
 
-Eure Mentoren helfen euch, HTML, CSS und JavaScript zu erkunden. 
+Eure Mentoren helfen euch, HTML, CSS und JavaScript zu erkunden.
 
 ### Für Fortgeschrittene
 
