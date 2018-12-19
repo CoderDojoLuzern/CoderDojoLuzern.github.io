@@ -14,6 +14,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/scratch/hour-of-code.html)
 
 ## Scratch
+1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch){:target="_blank"}
 1. [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
 1. [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
 1. [Erzähle eine kurze Geschichte mit Scratch](/trainingsanleitungen/scratch/scratch-geschichte-katze-und-ente.html)
@@ -46,7 +47,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 2. [Seifenblasen Spiel - Lass Seifenblasen zerplatzen](/trainingsanleitungen/touch-develop/seifenblasen-spiel.html)
 
 ## Webentwicklung (HTML, JavaScript & Co.)
-
+1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
 1. [Baue deine erste Webseite](/trainingsanleitungen/web/html-meine-erste-webseite.html)
 1. [Erste Schritte mit CSS](/trainingsanleitungen/web/erste-schritte-mit-css.html)
 1. [Programmiere ein einfaches "Zahlen raten" Spiel mit JavaScript](/trainingsanleitungen/web/javascript-zahlen-raten.html)
@@ -81,10 +82,10 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 
 ## Python
 
+1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python){:target="_blank"}
 1. [Erste Schritte mit Python](/trainingsanleitungen/python/python-erste-schritte.html)
 1. [Geisterspiel](/trainingsanleitungen/python/python-geisterspiel.html)
 1. [Unsinnige Sätze](/trainingsanleitungen/python/python-unsinnige-saetze.html)
-1. Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es einige [Python Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python)
 
 ## C# (C Sharp)
 
