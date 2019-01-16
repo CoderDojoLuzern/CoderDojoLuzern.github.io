@@ -22,7 +22,7 @@ In dieser Übung legst du ein neues Projekt an und lässt Scratchy, die Katze, a
 
 ## Die Katze Scratchy läuft herum
 
-1. Du findest alle Figuren des Projekts im rechten unteren Bereich. Im Moment gibt es hier nur Scratchy, die Katze. Wenn du sie auswählst, kannst du bestimmen, was sie machen soll. Dazu gibt es in links verschiedene Blöcke, mit denen du sie steuern kannst.
+1. Du findest alle Figuren des Projekts im rechten unteren Bereich. Im Moment gibt es hier nur Scratchy, die Katze. Wenn du sie auswählst, kannst du bestimmen, was sie machen soll. Dazu gibt es links verschiedene Blöcke, mit denen du sie steuern kannst.
 ![Erste Schritte in Scratch](scratch-erste-schritte/neues-scratch-projekt.png)
 
 2. Lass Scratchy ein paar Schritte laufen. Wähle dazu den Block *gehe 10er Schritt* und ziehe ihn nach rechts in den leeren grauen Bereich. Wenn du auf den blauen Block klickst, führt Scratchy den Befehl aus. Sie läuft 10 Schritte. Klickst du nochmal, läuft wie wieder 10 Schritte. Den Wert im weißen Feld kannst du verändern, um Scratchy mehr Schritte gehen zu lassen.
