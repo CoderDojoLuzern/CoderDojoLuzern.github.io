@@ -11,7 +11,7 @@ Hier findest du verschiedene Übungsbeispiele für Scratch, HTML und anderes.
 __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die hervorragenden Beispiele die wir von ihnen übernehmen konnten.__
 
 ## Hour of Code
-1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/scratch/hour-of-code.html)
+1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/hour-of-code/hour-of-code.html)
 
 ## Scratch
 1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch){:target="_blank"}
