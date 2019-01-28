@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Über uns
-bannerimage: /images/coderdojo-banner-1.jpg
+bannerimage: /images/coderdojo-banner-3.jpg
 ---
 
 <div class="row">
