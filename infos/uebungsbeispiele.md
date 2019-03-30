@@ -63,6 +63,8 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Snake mit Node.js](/trainingsanleitungen/web/snake-mit-nodejs.html)
 
 ## Minecraft
+## Unity (Spieleentwicklungsplattform)
+1. [Tutorials Englisch](https://unity3d.com/de/learn/tutorials)
 
 1. [Vorbedingungen - Installationen](/trainingsanleitungen/minecraft-plugins/01_installationen.html)
 1. [Kurzanleitung NetBeans Projektsetup](/trainingsanleitungen/minecraft-plugins/netbeans_cheatsheet.html)
@@ -89,13 +91,6 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [AntMe! Wie schlau ist deine Ameise?](/trainingsanleitungen/csharp/ant-me.html)
 1. [Türme von Hanoi](/trainingsanleitungen/csharp/towers-of-hanoi.html)
 
-## Unity (Spieleentwicklungsplattform)
-
-1. [Erste Schritte mit Unity](/trainingsanleitungen/unity/erste-schritte-mit-unity.html)
-
-## Assembler
-
-1. [Assembler Hello World - Lerne, wie ein Computer auf unterster Ebene funktioniert](/trainingsanleitungen/fundamentals/assembler-hello-world.html)
 
 ## BBC micro:bit
 
