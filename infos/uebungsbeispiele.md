@@ -41,10 +41,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 
 <!-- Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) findest die ausprogrammierten Übungsbeispiele, und kannst sie gleich einmal ausprobieren. Und du kannst deine eigenen Projekte zum Studio hinzufügen - egal ob nachprogrammiert oder Eigenkreation! Melde dich dazu bei Scratch an, und schreibe eine kurze Info mit Link auf dein Projekt in die [CoderDojo Luzern Scratch Studio Kommentare](https://scratch.mit.edu/studios/5668745/comments/). Oder gib einfach einem Mentor im CoderDojo Bescheid. Dann wird dein Programm Teil des Studios, und alle Scratcher in Luzern und weltweit können es sehen und verwenden. Dein Projekt muss öffentlich sein - klicke dazu im Projekt auf "Veröffentlichen". Um Mitglied im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) zu werden, musst du im Studio nur auf den blauen "Folgen" Button klicken. -->
 
-## TouchDevelop
 
-1. [Erste Schritte - Lerne die Arbeitsumgebung von TouchDevelop kennen](/trainingsanleitungen/touch-develop/erste-schritte.html)
-2. [Seifenblasen Spiel - Lass Seifenblasen zerplatzen](/trainingsanleitungen/touch-develop/seifenblasen-spiel.html)
 
 ## Webentwicklung (HTML, JavaScript & Co.)
 1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
