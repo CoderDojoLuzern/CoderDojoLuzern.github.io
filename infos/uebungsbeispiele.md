@@ -41,6 +41,10 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 
 <!-- Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) findest die ausprogrammierten Übungsbeispiele, und kannst sie gleich einmal ausprobieren. Und du kannst deine eigenen Projekte zum Studio hinzufügen - egal ob nachprogrammiert oder Eigenkreation! Melde dich dazu bei Scratch an, und schreibe eine kurze Info mit Link auf dein Projekt in die [CoderDojo Luzern Scratch Studio Kommentare](https://scratch.mit.edu/studios/5668745/comments/). Oder gib einfach einem Mentor im CoderDojo Bescheid. Dann wird dein Programm Teil des Studios, und alle Scratcher in Luzern und weltweit können es sehen und verwenden. Dein Projekt muss öffentlich sein - klicke dazu im Projekt auf "Veröffentlichen". Um Mitglied im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) zu werden, musst du im Studio nur auf den blauen "Folgen" Button klicken. -->
 
+## BBC micro:bit<img src="/images/bbc-microbit.jpg" style="float:right;height:120px;margin-left:50px"/>
+
+1. [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
+1. [Anleitungen von micro:bit](https://makecode.microbit.org/)
 
 
 ## Webentwicklung (HTML, JavaScript & Co.)
@@ -62,10 +66,10 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Erste Schritte mit Hugo](/trainingsanleitungen/web/erste-schritte-mit-hugo.html)
 1. [Snake mit Node.js](/trainingsanleitungen/web/snake-mit-nodejs.html)
 
-## Minecraft
 ## Unity (Spieleentwicklungsplattform)
 1. [Tutorials Englisch](https://unity3d.com/de/learn/tutorials)
 
+## Minecraft
 1. [Vorbedingungen - Installationen](/trainingsanleitungen/minecraft-plugins/01_installationen.html)
 1. [Kurzanleitung NetBeans Projektsetup](/trainingsanleitungen/minecraft-plugins/netbeans_cheatsheet.html)
 1. [Plugin 1: Erstes Minecraft-Plugin](/trainingsanleitungen/minecraft-plugins/02_first-plugin.html)
@@ -80,21 +84,15 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Erste Schritte mit Redstone](/trainingsanleitungen/minecraft-plugins/erste-schritte-mit-redstone.html)
 
 ## Python
-
 1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python){:target="_blank"}
 1. [Erste Schritte mit Python](/trainingsanleitungen/python/python-erste-schritte.html)
 1. [Geisterspiel](/trainingsanleitungen/python/python-geisterspiel.html)
 1. [Unsinnige Sätze](/trainingsanleitungen/python/python-unsinnige-saetze.html)
 
 ## C# (C Sharp)
-
 1. [AntMe! Wie schlau ist deine Ameise?](/trainingsanleitungen/csharp/ant-me.html)
 1. [Türme von Hanoi](/trainingsanleitungen/csharp/towers-of-hanoi.html)
 
-
-## BBC micro:bit
-
-1. [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
 
 ## Andere Projekte Webseiten
 
