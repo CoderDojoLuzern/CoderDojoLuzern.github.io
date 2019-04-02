@@ -10,7 +10,7 @@ title: Sponsoring
 <a href="https://www.bbv.ch" target="_blank"><img src="images/bbv-logo.png" style="float:left;height:100px;margin-right:50px"/></a>Vielen Dank an die [bbv Software Services AG](https://www.bbv.ch){:target="_blank"} für die finanzielle Unterstützung und die grossartigen Räumlichkeiten, die wir zur Verfügung gestellt bekommen.
 <br style="clear:both" />
 
-<a href="https://peax.ch" target="_blank"><img src="images/peax-logo.png" style="float:left;height:180px;margin-right:50px"/></a>Vielen Dank an die [Peax AG](https://peax.ch){:target="_blank"} für die grosszügige finanzielle Unterstützung.
+<a href="https://peax.ch" target="_blank"><img src="images/peax-logo.png" style="float:left;height:180px;margin-right:50px"/></a>Vielen Dank an die [PEAX AG](https://peax.ch){:target="_blank"} für die grosszügige finanzielle Unterstützung.
 <br style="clear:both" />
 
 Ein ganz grosses Dankeschön an das [CoderDojo Linz](http://coderdojo-linz.github.io). Für diese Webseite durften wir ihren Quellcode übernehmen und für uns anpassen. Ohne diese grosszügige Geste hätten wir nicht in so kurzer Zeit diese Webseite aufbauen können.
