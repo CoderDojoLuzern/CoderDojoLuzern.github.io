@@ -13,6 +13,13 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 ## Hour of Code
 1. [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/hour-of-code/hour-of-code.html)
 
+## Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:120px"/>
+
+1. [Erste Schritte (Thymio Website)](https://www.thymio.org/de:start){:target="_blank"}
+1. [Erste Schritte mit Thymio Teil 1 (Video)](https://youtu.be/Emh_I8TB0ZM){:target="_blank"}
+1. [Erste Schritte mit Thymio Teil 2 (Video)](https://youtu.be/YiggEVmdv7g){:target="_blank"}
+1. [Eine Einführung in die Welt der Robotor (pdf)](https://aseba.wdfiles.com/local--files/de:thymioschoolprojects/Zyklus1-SUS.pdf)
+
 ## Scratch
 1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch){:target="_blank"}
 1. [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
@@ -41,10 +48,13 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 
 <!-- Im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) findest die ausprogrammierten Übungsbeispiele, und kannst sie gleich einmal ausprobieren. Und du kannst deine eigenen Projekte zum Studio hinzufügen - egal ob nachprogrammiert oder Eigenkreation! Melde dich dazu bei Scratch an, und schreibe eine kurze Info mit Link auf dein Projekt in die [CoderDojo Luzern Scratch Studio Kommentare](https://scratch.mit.edu/studios/5668745/comments/). Oder gib einfach einem Mentor im CoderDojo Bescheid. Dann wird dein Programm Teil des Studios, und alle Scratcher in Luzern und weltweit können es sehen und verwenden. Dein Projekt muss öffentlich sein - klicke dazu im Projekt auf "Veröffentlichen". Um Mitglied im [CoderDojo Luzern Scratch Studio](https://scratch.mit.edu/studios/5668745/) zu werden, musst du im Studio nur auf den blauen "Folgen" Button klicken. -->
 
-## BBC micro:bit<img src="/images/bbc-microbit.jpg" style="float:right;height:120px;margin-left:50px"/>
+## BBC micro:bit<img src="/images/bbc-microbit.jpg" style="float:right;height:120px"/>
 
 1. [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
 1. [Anleitungen von micro:bit](https://makecode.microbit.org/)
+
+
+
 
 
 ## Webentwicklung (HTML, JavaScript & Co.)
