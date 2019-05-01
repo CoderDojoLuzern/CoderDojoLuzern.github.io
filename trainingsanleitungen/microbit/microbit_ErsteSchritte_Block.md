@@ -33,15 +33,15 @@ Dein erstes Programm soll einen zufälligen Würfelwurf nachstellen. Wenn der mi
 
 1. Lege eine Variable für die Zufallszahl an.
 
-   ![](microbit_ErsteSchritte_Block/microbit_wuerfel_01.PNG)
+    ![](microbit_ErsteSchritte_Block/microbit_wuerfel_01.PNG)
 
-2. Bei Eingabe können wir auf das Schütteln reagieren und uns eine Zufallszahl speichern. Unter Mathematik findest du den Block für eine Zufallszahl. Zufallszahlen starten immer bei 0, daher benötigen wir eine Zufallszahl von 0-5. Ist die Zufallszahl eine 0, dann zeigt der Würfel eine 1. Ist die Zahl eine 5, zeigt der Würfel eine 6. 
+2. Bei Eingabe können wir auf das Schütteln reagieren und uns eine Zufallszahl speichern. Unter Mathematik findest du den Block für eine Zufallszahl. Zufallszahlen starten immer bei 0, daher benötigen wir eine Zufallszahl von 0-5. Ist die Zufallszahl eine 0, dann zeigt der Würfel eine 1. Ist die Zahl eine 5, zeigt der Würfel eine 6.
 
-![](microbit_ErsteSchritte_Block/microbit_wuerfel_02.PNG)
+    ![](microbit_ErsteSchritte_Block/microbit_wuerfel_02.PNG)
 
 3. Für die Entscheidung welche Augenzahl angezeigt werden soll verwendest du den Wenn-Dann-Block und den Vergleichsoperator = unter Logik. Mit dem Zeige-LEDs-Block unter Grundlagen kannst du einzelne LEDs zum Leucht bringen und somit ein Muster für die Augenzahlen entwerfen.
 
-![](microbit_ErsteSchritte_Block/microbit_wuerfel_03.PNG)
+    ![](microbit_ErsteSchritte_Block/microbit_wuerfel_03.PNG)
 
 4. Probiere die weiteren Augenzahlen selbstständig zu lösen.
 
@@ -57,7 +57,7 @@ Um das ganze jetzt auszuprobieren muss das Programm auf den micro:bit übertrage
 
 ### Fertiges Programm
 
-Das fertige Programm könnten so aussehen:
+Das fertige Programm könnten so aussehen:  
 ![](microbit_ErsteSchritte_Block/microbit_wuerfel_04.PNG)
 
 
