@@ -21,6 +21,8 @@ Drücke die Knöpfe (Buttons) wenn dich dein micro:bit mit Lichtzeichen (A und B
 
 ### Entwicklungsumgebung
 
+Wir empfehlen dir, die Entwicklungsumgebung im Chrome Browser zu öffnen, da dies der einzige Browser ist, welcher den automatischen Programmdownload unterstützt.
+
 Öffne in einem Webbrowser die folgende URL: [https://makecode.microbit.org/](https://makecode.microbit.org/) 
 
 ![Startseite von https://makecode.microbit.org/](microbit_ErsteSchritte_Block/microbit_startpage.JPG)
@@ -45,9 +47,44 @@ Dein erstes Programm soll einen zufälligen Würfelwurf nachstellen. Wenn der mi
 
 4. Probiere die weiteren Augenzahlen selbstständig zu lösen.
 
-### Übertragung des Programms auf den micro:bit 
+### Übertragung des Programms auf den micro:bit
 
-Um das ganze jetzt auszuprobieren muss das Programm auf den micro:bit übertragen werden. Dazu muss der micro:bit über ein USB-Kabel mit dem Laptop verbunden sein.
+Es gibt zwei Möglichkeiten, dein Programm auf deinen micro:bit zu übertragen. Die automatische Übertragung funktioniert noch nicht bei allen micro:bits und
+Webbrowser, weshalb hier beide Varianten aufgelistet sind.
+
+#### Automatisch
+
+Die automatische Übertragung funktioniert nur mit dem Chrome Browser.
+
+Kopple dafür dein micro:bit mit deiner Entwicklungsumgebung. Wähle dazu das Zahnrad in der oberen rechten Ecke und wähle __Gerät koppeln__. Folge der Anleitung im Popup.
+
+![](microbit_ErsteSchritte_Block/microbit_pairDevice.png)
+
+Beim anschliessenden klicken auf den Herunterladen Knopf, wird dein Programm automatisch an deinen micro:bit übertragen und gestartet.
+
+#### Hinweise für Mentoren
+
+Falls die automatische Übertragung nicht funktioniert, müssen folgende Dinge geprüft werden:
+
+1. Chrome Browser muss in der Version 65 oder höher installiert sein.
+2. Auf dem micro:bit muss die Firmwareversion 0249 oder höher installiert sein. Die Versionsnummer findest du in der `DETAILS.TXT` Datei im `MICROBIT` drive.  
+    ![](microbit_ErsteSchritte_Block/microbit_version.png)  
+[Hier](https://makecode.microbit.org/device/usb/webusb/troubleshoot) findest du eine Anleitung wie die Firmware aktualisiert werden kann.
+3. Auf Linux muss WebUSB zuerst via udev freigeschaltet werden.  
+Folge dazu folgenden Schritten:
+    1. Schliesse Chrome
+    2. Erstelle `/etc/udev/rules.d/50-microbit.rules` mit folgendem Inhalt:  
+    `SUBSYSTEM=="usb", ATTR{idVendor}=="0d28", MODE="0664", GROUP="plugdev"`  
+    Dies erlaubt die Kommunikation mit Geräten welche die Vendor-ID von micro:bit besitzen.
+    3. Füge den Benutzer der `plugdev` Gruppe hinzu  
+    `sudo adduser <username> plugdev`
+    4. Lade die udev Regeln neu  
+    `sudo udevadm control --reload-rules`
+    5. Logge den Benutzer aus und wieder ein.
+
+#### Manuell
+
+Falls die automatische Übertragung auf deinem Computer nicht funktioniert, kannst du die Programme auch manuell an deinen micro:bit übertragen. Dazu muss der micro:bit über ein USB-Kabel mit dem Laptop verbunden sein.
 
 1. Lade das Programm vom Webbrowser herunter.
 2. Öffne den Ordner in den du das Programm heruntergeladen hast.
