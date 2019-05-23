@@ -2,7 +2,7 @@
 layout:
 title: Michael Blättler
 description:
-image: /mentoren/images/Michael-Blaettler.png
+image: /mentoren/images/Michael-Blaettler.jpg
 page-category: mentor
 ---
 
