@@ -53,8 +53,12 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 1. [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
 1. [Anleitungen von micro:bit](https://makecode.microbit.org/)
 
+## BrainPad Arcade/Classic <img src="/trainingsanleitungen/brainpad/BrainPads.png" style="float:right;height:150px"/>
 
-
+1. [Start Making BrainPad Arcade](https://www.brainpad.com/arcade/start-making/) _(Englisch)_
+1. [Start Making BrainPad Classic](https://www.brainpad.com/classic/start-making/) _(Englisch)_
+1. [Getting Started Guide Deutsch](http://files.ghielectronics.com/downloads/Documents/Guides/BrainPad%20Beginners%20Guide/BrainPad%20Beginners%20Guide%20-%20de.pdf) _(pdf)_
+1. [BrainPad Projekte](https://www.brainpad.com/projects/)_(Englisch)_
 
 
 ## Webentwicklung (HTML, JavaScript & Co.)
