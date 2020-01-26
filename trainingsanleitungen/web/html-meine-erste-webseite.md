@@ -41,7 +41,7 @@ In dieser Übung lernst du die [Hypertext Markup Language](https://de.wikipedia.
 
 4. Suche die gespeicherte Datei im Dateiexplorer (Windows) bzw. Finder (MacOS). Öffne sie durch Doppelklick. Ein Webbrowser sollte sich öffnen und deine erste Webseite anzeigen.<br/>![HTML-Datei im Webbrowser](html-meine-erste-webseite/erste-html-datei.png)
 
-3. Mache dich mit dem HTML-Code vertraut. Es folgen einige Erklärungen. Falls du Fragen hast, wende dich an einen CoderDojo Mentor. 
+3. Mache dich mit dem HTML-Code vertraut. Es folgen einige Erklärungen. Falls du Fragen hast, wende dich an einen CoderDojo Mentor.
 
 	* Mit der ersten Zeile `<!DOCTYPE html>` sagst Du dem Browser: *Das ist eine HTML-Datei*. Auch wenn diese Zeile nicht immer notwendig ist, gewöhne dir an, sie immer am Beginn einer HTML-Datei hinzuschreiben.
 
@@ -62,11 +62,11 @@ Später, wenn Deine HTML-Datei aus dem Internet erreichbar sein wird, bekommt de
 * Der Titel der Datei wird vom Web-Browser beim Setzen von Lesezeichen (*Bookmarks*, *Favoriten*) verwendet.
 * Der Titel der Datei wird im Web-Browser in der Liste der bereits besuchten Seiten (Verlauf) angezeigt.
 * Der Titel der Datei dient im Web vielen automatischen Suchprogrammen als wichtige Informationsquelle, sodass deine HTML-Seiten leichter von Interessenten mit einer Suchmaschine wie z.B. Google gefunden werden können, wenn du sinnvolle Titel für deine HTML-Seiten vergeben hast.
-* Wenn die Datei zu den Suchtreffern einer Suche gehört, bieten viele Suchmaschinen den Titel der Datei als anklickbaren Verweis an. 
+* Wenn die Datei zu den Suchtreffern einer Suche gehört, bieten viele Suchmaschinen den Titel der Datei als anklickbaren Verweis an.
 
 ![Titel in Google](html-meine-erste-webseite/html-BrowserTitleGoogle.png)
 
-1. Für unser CoderDojo wäre folgender Titel passend. Ersetze den Titel in deiner HTML-Datei durch diesen Code. Vergiss nicht, die HTML-Datei abzuspeichern! 
+1. Für unser CoderDojo wäre folgender Titel passend. Ersetze den Titel in deiner HTML-Datei durch diesen Code. Vergiss nicht, die HTML-Datei abzuspeichern!
 
         <title>CoderDojo Linz | Meine erste Webseite</title>
 
@@ -74,10 +74,10 @@ Später, wenn Deine HTML-Datei aus dem Internet erreichbar sein wird, bekommt de
 
 
 ## Nach dem Kopf folgt der Körper
-               
+
 Wie schon erwähnt, kommt der eigentliche Inhalt der Webseite in das `body`-Element.
 
-1. Nehmen wir als erstes Beispiel eine schöne große Überschrift. Überschrift heißt auf Englisch *heading*. Es gibt verschiedene Überschriftenebenen, die einfach mit eins beginnend nummeriert werden (*h1, h2, h3, ...*). Man fängt mit `h1` an; das ist die größte. Wenn man dann das, was auf diese Überschrift folgt, nochmals unterteilen will, nimmt man die nächste: `h2`. Und so weiter, und so fort.<br/>Füge vor dem `<p>` Absatz eine Überschrift mit `<h1>` ein. Vergiss nicht, die HTML-Datei danach abzuspeichern! 
+1. Nehmen wir als erstes Beispiel eine schöne große Überschrift. Überschrift heißt auf Englisch *heading*. Es gibt verschiedene Überschriftenebenen, die einfach mit eins beginnend nummeriert werden (*h1, h2, h3, ...*). Man fängt mit `h1` an; das ist die größte. Wenn man dann das, was auf diese Überschrift folgt, nochmals unterteilen will, nimmt man die nächste: `h2`. Und so weiter, und so fort.<br/>Füge vor dem `<p>` Absatz eine Überschrift mit `<h1>` ein. Vergiss nicht, die HTML-Datei danach abzuspeichern!
 
         ...
         <body>
@@ -90,15 +90,15 @@ Wie schon erwähnt, kommt der eigentliche Inhalt der Webseite in das `body`-Elem
 
 3. Du willst sicher ein paar Worte über dich oder ein Thema, das dir wichtig ist, schreiben. Ein normalen Text wird in Absätze gegliedert. Das englische Wort für *Absatz* ist *paragraph*, und daraus ergeben sich dann die Tags `<p>` (Absatzanfang) und `</p>` (Absatzende).<br/>Füge ein paar Absätze in deine HTML-Datei ein wie unten gezeigt. Vergiss nicht, die HTML-Datei danach abzuspeichern!
 
-        ...        
+        ...
         <body>
           <h1>Meine erste Webseite</h1>
-          <p>Diese Webseite soll zeigen, wie HTML funktioniert. Hier lernen wir gerade, 
+          <p>Diese Webseite soll zeigen, wie HTML funktioniert. Hier lernen wir gerade,
              wie man mit dem p-Element umgeht.</p>
-          <p>Das ist ein zweiter Absatz. Um zu sehen, was die Auswirkung ist, geben 
+          <p>Das ist ein zweiter Absatz. Um zu sehen, was die Auswirkung ist, geben
              wir hier etwas sinnlosen Beispieltext ein. Bla bla bla ...</p>
         </body>
-        ...        
+        ...
 
 2. Aktualisiere deine HTML-Datei im Webbrowser und achte darauf, wie sich der Inhalt ändert.<br/>![HTML Seite mit mehreren Absätzen](html-meine-erste-webseite/html-seite-mit-mehreren-absaetzen.png)
 
@@ -110,16 +110,16 @@ Eine geordnete Liste (*ordered list*) wird bei HTML zwischen `<ol></ol>` notiert
 
 1. Erweitere den Code deiner HTML-Datei wie unten gezeigt. Vergiss nicht, die HTML-Datei danach abzuspeichern!
 
-        ...        
+        ...
         <body>
           <h1>Meine erste Webseite</h1>
-        
+
           <h2>Einleitung</h2>
-          <p>Diese Webseite soll zeigen, wie HTML funktioniert. Hier lernen wir gerade, 
+          <p>Diese Webseite soll zeigen, wie HTML funktioniert. Hier lernen wir gerade,
              wie man mit dem p-Element umgeht.</p>
-          <p>Das ist ein zweiter Absatz. Um zu sehen, was die Auswirkung ist, geben 
+          <p>Das ist ein zweiter Absatz. Um zu sehen, was die Auswirkung ist, geben
              wir hier etwas sinnlosen Beispieltext ein. Bla bla bla ...</p>
-        
+
           <h2>Meine Hobbies</h2>
           <ul>
             <li>radfahren</li>
@@ -127,9 +127,9 @@ Eine geordnete Liste (*ordered list*) wird bei HTML zwischen `<ol></ol>` notiert
             <li>mit Freunden spielen</li>
             <li>vor dem Rechner sitzen</li>
           </ul>
-        
+
         </body>
-        ...        
+        ...
 
 2. Aktualisiere deine HTML-Datei im Webbrowser und achte darauf, wie sich der Inhalt ändert. Fällt dir auf, dass die HTML-Seite das Zeichen *ö* falsch darstellt? Das kommt daher, dass HTML mit deutschen Sonderzeichen nicht richtig umgehen kann. Sie brauchen eine besondere Schreibweise, auf die wir unten noch eingehen werden.<br/>![HTML Seite mit Liste](html-meine-erste-webseite/unordered-list.png)
 
@@ -157,7 +157,7 @@ Eine geordnete Liste (*ordered list*) wird bei HTML zwischen `<ol></ol>` notiert
 
 ## Wichtige Sonderzeichen
 
-Kannst du dich an das Problem mit dem *ö* erinnern? Hier die wichtigsten Sonderzeichen der deutschen Sprache mit ihren HTML-Codes: 
+Kannst du dich an das Problem mit dem *ö* erinnern? Hier die wichtigsten Sonderzeichen der deutschen Sprache mit ihren HTML-Codes:
 
 Zeichen&nbsp; | in Worten              | Html Code
 --------------|------------------------|-----------
@@ -189,13 +189,13 @@ Das Bild-Element kommt wie alle anderen Elemente auch aus dem Englischen. Bild h
         ...
         <body>
           <h1>Meine erste Webseite</h1>
-        
+
           <h2>Einleitung</h2>
           ...
-        
+
           <h2>Meine Hobbies</h2>
           ...
-        
+
           <h2>Ein sch&ouml;nes Bild</h2>
           <img src="apfel.jpg" width="300" />
         </body>
@@ -212,9 +212,9 @@ Der `a` Tag kommt vom englischen *to anchor* dies kann übersetzt werden mit *ve
         ...
         <body>
           <h1>Meine erste Webseite</h1>
-        
+
           <p>Zur <a href="http://coderdojo-linz.github.io">CoderDojo Linz Webseite</a> gehen ...</p>
-        
+
           <h2>Einleitung</h2>
           ...
 
@@ -232,4 +232,4 @@ Wir haben Dir die fertige HTML-Datei zusammengestellt. Du kannst sie [hier](html
 
 3. Möchtest du lernen, wie man Programme in JavaScript in eine Webseite einbettet? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/javascript-zahlen-raten.html).
 
-4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/dreamspark-azure.html).
+4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/webseite-veroeffentlichen.html).

@@ -78,7 +78,7 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 1. [Erste Schritte mit CSS](/trainingsanleitungen/web/erste-schritte-mit-css.html)
 1. [Programmiere ein einfaches "Zahlen raten" Spiel mit JavaScript](/trainingsanleitungen/web/javascript-zahlen-raten.html)
 1. [Erste Schritte mit SVG](/trainingsanleitungen/web/erste-schritte-mit-svg.html)
-1. [Deine eigene Webseite im Internet veröffentlichen](/trainingsanleitungen/web/dreamspark-azure.html)
+1. [Deine eigene Webseite im Internet veröffentlichen](/trainingsanleitungen/web/webseite-veroeffentlichen.html)
 1. [Einen Node.js Webserver programmieren](/trainingsanleitungen/web/nodejs-webserver.html)
 1. [Programmiere einen Chat mit Node.js und Socket.io](/trainingsanleitungen/web/nodejs-socketio-chat.html)
 1. [Ein Space Shooter mit TypeScript und Phaser.io](/trainingsanleitungen/web/space-shooter.html)

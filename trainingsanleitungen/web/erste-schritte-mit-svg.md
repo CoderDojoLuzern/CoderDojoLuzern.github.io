@@ -59,7 +59,7 @@ Jetzt legen wir los. Vergiss bitte nicht, während der Arbeit hin und wieder ein
 
 Ändere den von Plunker generierten HTML Code wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/bW70b0/){:target="_blank"}).
 
-**Tipp:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes. 
+**Tipp:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes.
 
 ```
 <!DOCTYPE html>
@@ -67,14 +67,14 @@ Jetzt legen wir los. Vergiss bitte nicht, während der Arbeit hin und wieder ein
 
   <body>
     <h1>Hallo SVG!</h1>
-    
+
     <svg id="svg" width="200" height="200" viewBox="0 0 74 74">
-      <circle fill="#F0CA00" cx="37" cy="37" r="37"/> 
-      <circle fill="#008754" cx="37" cy="37" r="35"/> 
-      <circle fill="#F0CA00" cx="37" cy="37" r="25"/> 
+      <circle fill="#F0CA00" cx="37" cy="37" r="37"/>
+      <circle fill="#008754" cx="37" cy="37" r="35"/>
+      <circle fill="#F0CA00" cx="37" cy="37" r="25"/>
       <path fill="#008754" d="m 44.5,34 -15,0 0,-16 -6,0 0,38 6,0 0,-17 15,0 0,17 6,0 0,-38 -6,0 z"/>
     </svg>
-    
+
     <p>
       Hier kann weiterer Text folgen
     </p>
@@ -98,7 +98,7 @@ Jetzt legen wir los. Vergiss bitte nicht, während der Arbeit hin und wieder ein
    * In `d` legt man das Aussehen der Figur fest.
    * `m` steht für `move` und setzt den Zeichencursor an eine Position.
    * Nach dem `m` folgen durch Leerzeichen getrennte x/y Koordinatenpaare wie z.B. `44.5,34`. Durch das Zeichen `z` wird die Figur geschlossen. Schwierig? Frage eine CoderDojo Mentorin um Hilfe. Sie wird dir Schritt für Schritt erklären, wie `path` funktioniert.
-   * Möchtest du ganz, ganz genau wissen, was alles bei `d` möglich ist. Die Profi-Doku findest du [bei Mozilla](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d){:target="_blank"}.        
+   * Möchtest du ganz, ganz genau wissen, was alles bei `d` möglich ist. Die Profi-Doku findest du [bei Mozilla](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d){:target="_blank"}.
 
 1. Wenn du möchtest, kannst du weitere Formen ausprobieren. Auf [w3schools](http://www.w3schools.com/svg/svg_examples.asp){:target="_blank"} findest du jede Menge Beispiele mit Linien, Rechtecken, Ellipsen, Polygonen etc.
 
@@ -107,7 +107,7 @@ Jetzt legen wir los. Vergiss bitte nicht, während der Arbeit hin und wieder ein
 
 Man kann SVG nicht nur direkt im HTML Code einbetten sondern es auch in JavaScript generieren. Das wollen wir jetzt probieren. Unser Ziel ist es, das gleiche Beispiel wie zuvor mit JavaScript zu zeichnen.
 
-Erstelle ein neues *Plunk*. Ändere den von Plunker generierten HTML Code wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/YVS3vdrWjHlQuXA08o6l/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes. 
+Erstelle ein neues *Plunk*. Ändere den von Plunker generierten HTML Code wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/YVS3vdrWjHlQuXA08o6l/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes.
 
 ```
 <!DOCTYPE html>
@@ -204,7 +204,7 @@ Die folgende Grafik aus Wikipedia ist ein Beispiel. So ähnlich soll unser SVG a
 
 Um die Formeln im folgenden Code zu verstehen, musst du mit dem [Satz des Phytagoras](https://de.wikipedia.org/wiki/Satz_des_Pythagoras){:target="_blank"} und [Winkelfunktionen](https://de.wikipedia.org/wiki/Trigonometrische_Funktion){:target="_blank"} vertraut sein. Im CoderDojo werden wir die Formeln erarbeiten. Wenn du die Übung selbst machst und verstehen möchtest, wie die Formeln zustande kommen, sprich mit deiner Mathematik- oder Informatiklehrerin.
 
-Erstelle ein neues *Plunk*. Ändere den von Plunker generierten HTML Code wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/GbWM3hoy0wY656NaQudo/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes. 
+Erstelle ein neues *Plunk*. Ändere den von Plunker generierten HTML Code wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/GbWM3hoy0wY656NaQudo/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes.
 
 ```
 <!DOCTYPE html>
@@ -218,7 +218,7 @@ Erstelle ein neues *Plunk*. Ändere den von Plunker generierten HTML Code wie fo
     <svg id="svg" width="600px" height="600px"></svg>
     <script src="script.js"></script>
   </body>
-  
+
 </html>
 ```
 
@@ -235,42 +235,42 @@ var animSpeed = 20;
 
 // big circle
 var bigCircle = s.circle(padding + r, padding + r, r);
-bigCircle.attr({ 
-  fill: 'white', 
-  stroke: 'black', 
-  strokeWidth: 3 
+bigCircle.attr({
+  fill: 'white',
+  stroke: 'black',
+  strokeWidth: 3
 });
 
 // small, rotating circle with radius = r/2
 var smallCircle = s.circle(padding + r, padding + r/2, r/2);
-smallCircle.attr({ 
-  fill: 'white', 
-  stroke: 'gray', 
-  strokeWidth: 1, 
+smallCircle.attr({
+  fill: 'white',
+  stroke: 'gray',
+  strokeWidth: 1,
 });
 
 // dot rotating with small circle
 var dot = s.circle(padding + r, padding, 5);
-dot.attr({ 
-  fill: 'red' 
+dot.attr({
+  fill: 'red'
 });
 
 // line on which the dot moves
 var line = s.line(padding + r, padding, padding + r, padding + 2 * r);
-line.attr({ 
-  stroke: 'lightgray', 
+line.attr({
+  stroke: 'lightgray',
   strokeWidth: 1,
   'stroke-dasharray': '5,5'
 });
 
-// timer function 
+// timer function
 var timerFunc = function() {
   // increment rotation
   rotation += Math.PI / step;
   if (rotation >= 2 * Math.PI) {
     rotation -= 2 * Math.PI;
   }
-  
+
   // calculate translation of small circle
   var x = Math.cos(Math.PI / 2 - rotation) * r/2;
   var y = r/2 - Math.sin(Math.PI / 2 - rotation) * r/2;
@@ -296,7 +296,7 @@ setTimeout(timerFunc, animSpeed);
   * Als erstes berechnet sie die Schrittweise Rotation des kleineren Kreises. `rotation` enthält den Rotationswinkel in [Radiant](https://de.wikipedia.org/wiki/Radiant_(Einheit)){:target="_blank"}.
   * Als nächstes berechnet sie ausgehend von der aktuellen Rotation die Position des kleinen Kreises und des roten Punktes. Wie gesagt, wenn du Winkelfunktionen schon beherrschst, gehe die Mathematik dahinter mit einem CoderDojo Mentor oder deiner Lehrerin durch.
   * Mit `transform` werden kleiner Kreis und roter Punkt auf die neue Position gesetzt.
-  * Abschließend wird festgelegt, dass die `timerFunc` erneut aufgerufen werden soll. 
+  * Abschließend wird festgelegt, dass die `timerFunc` erneut aufgerufen werden soll.
 
 1. Experimentieren mit anderen Linienstärken, Farben, Animationsgeschwindigkeiten etc.
 
@@ -310,7 +310,7 @@ Was können wir verbessern?
 * Wir können die Animationsfunktion, die in SVG eingebaut ist, verwenden. Die Animation sollte dadurch "butterweich" werden.
 * Wir können die Rotationsfunktion von SVG nutzen anstatt selbst die Position des roten Punktes zu errechnen.
 
-Ändere den JavaScript-Code aus dem vorherigen Beispiel wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/3NR9j60QE1rRJQhLGNDB/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes. 
+Ändere den JavaScript-Code aus dem vorherigen Beispiel wie folgt ([auf Plunker ausprobieren](https://embed.plnkr.co/3NR9j60QE1rRJQhLGNDB/){:target="_blank"}). **Nicht vergessen:** Drücke gleich am Anfang auf *Run*, dann siehst du laufend das Ergebnis des von dir bereits eingegebenen Codes.
 
 ```
 var s = Snap("#svg");
@@ -323,10 +323,10 @@ var animSpeed = 20;
 
 // big circle
 var bigCircle = s.circle(padding + r, padding + r, r);
-bigCircle.attr({ 
-  fill: 'white', 
-  stroke: 'black', 
-  strokeWidth: 3 
+bigCircle.attr({
+  fill: 'white',
+  stroke: 'black',
+  strokeWidth: 3
 });
 
 // bounding circle for smooth animation
@@ -335,16 +335,16 @@ smallCircleBounding.attr({ fill: 'none', stroke: 'none' });
 
 // small, rotating circle with radius = r/2
 var smallCircle = s.circle(padding + r, padding + r/2, r/2);
-smallCircle.attr({ 
-  fill: 'white', 
-  stroke: 'gray', 
-  strokeWidth: 1, 
+smallCircle.attr({
+  fill: 'white',
+  stroke: 'gray',
+  strokeWidth: 1,
 });
 
 // dot rotating with small circle
 var dot = s.circle(padding + r, padding, 4);
-dot.attr({ 
-  fill: 'red' 
+dot.attr({
+  fill: 'red'
 });
 
 // group rotating circles
@@ -352,27 +352,27 @@ var group = s.group(smallCircleBounding, smallCircle, dot);
 
 // line on which the dot moves
 var line = s.line(padding + r, padding, padding + r, padding + 2 * r);
-line.attr({ 
-  stroke: 'lightgray', 
+line.attr({
+  stroke: 'lightgray',
   strokeWidth: 1,
   'stroke-dasharray': '5,5'
 });
 
-// timer function 
+// timer function
 var timerFunc = function() {
   // increment rotation
   rotation += Math.PI / step;
   if (rotation >= 2 * Math.PI) {
     rotation -= 2 * Math.PI;
   }
-  
+
   // calculate translation of small circle
   var x = Math.cos(Math.PI / 2 - rotation) * r/2;
   var y = r/2 - Math.sin(Math.PI / 2 - rotation) * r/2;
 
   // transform circle and dot
   group.animate(
-    { transform: 'T' + Math.round(x) +',' + Math.round(y) + 'R' + (-1) * rotation / Math.PI / 2 * 360 }, 
+    { transform: 'T' + Math.round(x) +',' + Math.round(y) + 'R' + (-1) * rotation / Math.PI / 2 * 360 },
     animSpeed,
     timerFunc);
 };
@@ -392,8 +392,8 @@ timerFunc();
 
 1. Probiere, mit JavaScript ein Schachbrettmuster mit *Snap.svg* zu erzeugen.
 
-1. Es gibt eine kostenlose Open-Source Software, mit der du SVG-Dateien erstellen und bearbeiten kannst: [Inkscape](https://inkscape.org/de/){:target="_blank"}. Es wird auch von Profis verwendet. Installiere Inkscape, erstelle eine SVG-Datei und sieh dir anschließend den von Inkscape generierten SVG-Code an. 
+1. Es gibt eine kostenlose Open-Source Software, mit der du SVG-Dateien erstellen und bearbeiten kannst: [Inkscape](https://inkscape.org/de/){:target="_blank"}. Es wird auch von Profis verwendet. Installiere Inkscape, erstelle eine SVG-Datei und sieh dir anschließend den von Inkscape generierten SVG-Code an.
 
 1. Wenn man mehrere Cardanische Kreise kombiniert, entsteht eine faszinierende, optische Illusion. Schau dir z.B. die [*Tusi Motion* von Michael Bach](http://www.michaelbach.de/ot/mot-Tusi/index.html){:target="_blank"} an.
 
-1. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/dreamspark-azure.html).
+1. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/webseite-veroeffentlichen.html).

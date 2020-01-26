@@ -36,24 +36,24 @@ Damit du bei der Übung nicht von Null beginnen must, bekommst du hier ein Grund
         	</head>
         	<body>
         		<h2>Zahlen raten</h2>
-        		
+
         		<p>Versuche, die Zahl zwischen 0 und 100 zu erraten!</p>
-        		
+
         		<div style="height: 120px">
         			<label>Dein Tipp:</label>
         			<input type="number" id="inputGuess" style="width:100px"/>
         			<button>Überprüfen</button>
-        			
+
         			<p id="outputResult"></p>
         			<p id="outputCount"></p>
         		</div>
         	</body>
-        	
+
         	<script type="text/javascript">
         		var inputGuess = document.getElementById("inputGuess");
         		var outputResult = document.getElementById("outputResult");
         		var outputCount = document.getElementById("outputCount");
-        		
+
         		var number, count;
         		number = Math.floor(Math.random() * 100);
         	</script>
@@ -79,7 +79,7 @@ Wenn du jetzt eine Zahl eingibst und auf "Überprüfen" klickst, passiert noch n
 3. Ergänze außerdem den JavaScript-Bereich nach der Zeile `number = ...` um folgenden Code. Hier wird eine *Variable* namens `count` deklariert. Außerdem wird die oben erwähnte Funktion `checkNumber` angelegt. Sie erhöht den Wert des Zählers `count` und gibt den aktuellen Stand aus.
 
         count = 0;
-    
+
         function checkNumber() {
     		count = count + 1;
     		outputCount.innerHTML = "Du hast bisher " + count + " Versuche gebraucht.";
@@ -89,24 +89,24 @@ Wenn du jetzt eine Zahl eingibst und auf "Überprüfen" klickst, passiert noch n
 ![Funktionsweise von getElementById](javascript-zahlen-raten/getElementById.png)
 
 5. Speichere deine Änderungen, lade die Seite im Browser neu (z.B. durch Drücken der Taste F5) und klicke nochmal auf "Überprüfen". Nach jedem Klick wird jetzt die Anzahl der Versuche erhöht und anschließend angezeigt.
-	
+
 Natürlich fehlt jetzt noch der wichtigste Teil des Spiels: Die Überprüfung, ob die Zahl stimmt und der Hinweis, ob man zu hoch oder zu niedrig getippt hat. Dafür brauchen wir noch etwas mehr JavaScript Code.
 
 ## Höher oder niedriger?
 
 Jetzt können wir die eingegebene Zahl mit der Zahl des Computers vergleichen.
 
-1. Wechsle zurück zur HTML-Datei im Texteditor. 
+1. Wechsle zurück zur HTML-Datei im Texteditor.
 
 2. Füge den folgenden Code am Beginn der Funktion `checkNumber` ein, also vor `count = count + 1;`. Achte darauf, das beim dritten Vergleich wirklich zwei Ist-Gleich-Zeichen hintereinander stehen!
 
-        var guess = parseInt(inputGuess.value);			
+        var guess = parseInt(inputGuess.value);
         if (guess < number)
             outputResult.innerHTML  = "Dein Tipp war zu niedrig.";
         else if (guess > number)
             outputResult.innerHTML  = "Dein Tipp war zu hoch.";
         else if (guess == number)
-            outputResult.innerHTML  = "Richtig!";		
+            outputResult.innerHTML  = "Richtig!";
 
 5. Speichere deine Änderungen, lade die Seite im Browser neu (z.B. durch Drücken der Taste F5). Jetzt kannst du dein Spiel schon einmal bis zum Ende spielen! Wie viele Versuche brauchst du, bis du die Zahl erraten hast? Schaffst du es unter 10?
 
@@ -114,7 +114,7 @@ Jetzt können wir die eingegebene Zahl mit der Zahl des Computers vergleichen.
 
 Wenn du das Spiel neu starten willst, musst du die Seite neu laden. Lass uns das im letzten Schritt noch einfacher machen.
 
-1. Wechsle zurück zur HTML-Datei im Texteditor. 
+1. Wechsle zurück zur HTML-Datei im Texteditor.
 
 2. Im HTML-Code legen wir einen eigenen Button für den Neustart des Spiels an. Ergänze dazu im HTML-Bereich folgende Code-Zeile:
 
@@ -125,12 +125,12 @@ Wenn du das Spiel neu starten willst, musst du die Seite neu laden. Lass uns das
         function newGame() {
             number = Math.floor(Math.random() * 100);
             count = 0;
-    	
+
             inputGuess.value = "";
             outputResult.innerHTML = "";
             outputCount.innerHTML = "";
         }
-	
+
 4. Schau dir die Codezeilen genau durch. Entdeckst du die Funktionen, die mit `Math.` beginnen? Das sind mathematische Funktionen von JavaScript. [Hier](http://www.w3schools.com/jsref/jsref_obj_math.asp){:target="_blank"} findest du eine Beschreibung aller dieser Funktionen. Such die Beschreibung von `Math.floor` und `Math.random` heraus und lies nach, was die beiden Funktionen machen.
 
 5. Speichere deine Änderungen, lade die Seite im Browser neu (z.B. durch Drücken der Taste F5). Jetzt kannst du das Spiel jederzeit neu starten.
@@ -151,4 +151,4 @@ Wenn du noch weiterprogrammieren willst, hier noch ein paar Ideen:
 
 4. Möchtest du deine Webseite etwas schöner gestalten? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/erste-schritte-mit-css.html).
 
-4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/dreamspark-azure.html).
+4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/webseite-veroeffentlichen.html).

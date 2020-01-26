@@ -50,7 +50,7 @@ Unser Ziel ist folgendes Layout. Wir möchten es nur mit Hilfe von CSS erreichen
             font-family:'Arial';
         }
 
-2. Formatiere die Überschrift erster Ordnung mit folgendem CSS Element. 
+2. Formatiere die Überschrift erster Ordnung mit folgendem CSS Element.
 
         h1 {
             font-family:'Arial Black';
@@ -178,9 +178,9 @@ Bisher haben wir CSS nur in JSFIDDLE ausprobiert. Zum Abschluss werden wir den e
         	<title>Erste Schritte mit CSS</title>
         </head>
         <body>
-        
-        	<!-- Hier bitte den HTML-Code aus JSFIDDLE einfügen --> 
-        
+
+        	<!-- Hier bitte den HTML-Code aus JSFIDDLE einfügen -->
+
         </body>
         </html>
 
@@ -192,25 +192,25 @@ Bisher haben wir CSS nur in JSFIDDLE ausprobiert. Zum Abschluss werden wir den e
         	<title>Erste Schritte mit CSS</title>
         </head>
         <body>
-        
+
         <h1><span class='highlight'>CoderDojo</span> &Uuml;bung</h1>
-        
+
         <p id="intro">Ut labore ...</p>
-        
+
         <div class="sidebar">Mehr zu dem Thema ...</div>
         <h2>Einleitung</h2>
         <p>Lorem ipsum <a href="http://www.google.at">dolor sit amet</a>, consetetur ...</p>
-        
+
         <h2>Mehr zum Thema</h2>
         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, ...</p>
-        
+
         <h2>Abschluss</h2>
-        <p>Lorem ipsum dolor sit amet, ...</p> 
-        
+        <p>Lorem ipsum dolor sit amet, ...</p>
+
         </body>
         </html>
 
-5. Füge innerhalb des `head` Elements das Element `style` ein. In das `style` Elements musst du den CSS-Code einfügen, den zuvor in JSFIDDLE erstellt hast. 
+5. Füge innerhalb des `head` Elements das Element `style` ein. In das `style` Elements musst du den CSS-Code einfügen, den zuvor in JSFIDDLE erstellt hast.
 
         <!DOCTYPE html>
         <html>
@@ -236,4 +236,4 @@ Bisher haben wir CSS nur in JSFIDDLE ausprobiert. Zum Abschluss werden wir den e
 
 3. Baue dir einen Webserver mit Node.JS (eine Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/nodejs-webserver.html)) und liefere damit den in dieser Übung erstellten HTML- und CSS-Code aus.
 
-4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/dreamspark-azure.html).
+4. Möchtest du deine Webseite im Internet veröffentlichen? Ein Übungsbeispiel dafür findest du [hier](/trainingsanleitungen/web/webseite-veroeffentlichen.html).
