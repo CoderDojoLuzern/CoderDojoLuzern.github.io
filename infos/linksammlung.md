@@ -18,19 +18,6 @@ description: Wichtige Links für Teilnehmer, Eltern und Mentoren
 * [Tools für Webentwicklung](#WebTools)
 * [SoloLearn](#SoloLearn)
 
-### <a name="Azure">Microsoft Azure</a> ###
-
-***Microsoft Azure* ist eine sogenannte [Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing "Cloud Computing in Wikipedia"){:target="_blank"} Umgebung. Wenn Programme von euch im Internet zur Verfügung stehen sollen, könnt ihr dafür in vielen Fällen Azure verwenden.**
-
-Über [DreamSpark](#DreamSpark) bekommt ihr ein **kostenloses** Guthaben in Azure. Eure CoderDojo Mentoren helfen euch zu entscheiden, ob Azure für euer Projekt geeignet ist. Sie zeigen euch auch, wie ihr Azure verwenden könnt.
-
-Hier wichtige Links für euch, bei denen ihr mehr Informationen zu Azure findet:
-
-* [Azure Homepage](http://azure.microsoft.com){:target="_blank"}
-* [Informationen über Webseiten in Azure](http://azure.microsoft.com/de-de/services/app-service/web/){:target="_blank"}
-* [Informationen über MySQL in Azure](https://azure.microsoft.com/de-de/documentation/articles/store-php-create-mysql-database/){:target="_blank"}
-* [Link zur Anmeldung zu Azure über DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99){:target="_blank"}
-
 ### <a name="Heroku">Heroku</a> ###
 
 **Ähnlich wie [Azure](#Azure) ist *Heroku* auch eine [Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing "Cloud Computing in Wikipedia"){:target="_blank"} Umgebung zum Betreiben eurer Web-Projekte im Internet.**
