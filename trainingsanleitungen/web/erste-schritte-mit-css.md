@@ -121,7 +121,7 @@ In der nächsten Übung möchten wir Hyperlinks im Fließtext schöner formatier
 
 1. Mache im ersten Fließtext-Absatz ein paar Wörter zu einem Hyperlink:
 
-        <p id='intro'>Lorem ipsum <a href="http://www.google.at">dolor sit amet</a>, consetetur ...</p>
+        <p id='intro'>Lorem ipsum <a href="http://www.google.ch">dolor sit amet</a>, consetetur ...</p>
 
 2. Aktualisiere das Ergebnis und beachte, wie der Hyperlink standardmäßig formatiert wird.
 
@@ -199,7 +199,7 @@ Bisher haben wir CSS nur in JSFIDDLE ausprobiert. Zum Abschluss werden wir den e
 
         <div class="sidebar">Mehr zu dem Thema ...</div>
         <h2>Einleitung</h2>
-        <p>Lorem ipsum <a href="http://www.google.at">dolor sit amet</a>, consetetur ...</p>
+        <p>Lorem ipsum <a href="http://www.google.ch">dolor sit amet</a>, consetetur ...</p>
 
         <h2>Mehr zum Thema</h2>
         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, ...</p>
