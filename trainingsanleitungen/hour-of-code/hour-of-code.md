@@ -57,18 +57,4 @@ Male schöne Muster mit dem Künstler ähnlich wie mit der Eiskönigin. Programm
 **Tipp:** Die *Hour of Code* Programmierspiele gibt es in vielen Sprachen. Du kannst die Sprache links unten im Browser-Fenster beim jeweiligen Spiel einstellen.
 
 
-## Fortgeschrittene: Scratch
 
-Bei den oben erwähnten Spielen folgst du vorgegebenen Übungsaufgaben. Du möchtest jetzt anfangen, deine eigenen Ideen umzusetzen? Dafür ist [Scratch](http://scratch.mit.edu) super geeignet.
-
-1. Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits [eine Menge Beispiele](http://coderdojoluzern.ch/infos/uebungsbeispiele.html){:target="_blank"} ausgearbeitet die wir übernehmen konnten und mit denen du starten kannst. Hast du eigene Ideen für Änderungen oder Erweiterungen? In Scratch kannst du deinen Ideen freien Lauf lassen.
-1. Auch in *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
-1. Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es [einige Scratch Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"}, die sich besonders für Anfänger eignen.
-
-
-## Der nächste Schritt: Spiel programmieren mit *JavaScript* oder *Python*
-
-1. ![Code Combat](code_combat_gamedev.jpg){: .right}
-Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir nicht mehr genug? Profis verwenden Programmiersprachen wie *JavaScript* oder *Python*. Im Spiel [Code Combat](https://codecombat.com/){:target="_blank"} kannst du die Grundlagen dieser Sprachen erlernen und dabei dein eigenes Spiel programmieren.<br/>
-
-1. Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es einige [Python Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python)
