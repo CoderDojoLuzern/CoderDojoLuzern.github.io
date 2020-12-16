@@ -21,38 +21,17 @@ Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.htm
 
 [Scratch](https://scratch.mit.edu/){:target="_blank"} ist eine bildungsorientierte visuelle Programmiersprache für Kinder und Jugendliche.
 
-- Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge Beispiele ausgearbeitet die wir übernehmen konnten und mit denen du starten kannst. Hast du eigene Ideen für Änderungen oder Erweiterungen? In Scratch kannst du deinen Ideen freien Lauf lassen:
-    1. [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
-    1. [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
-    1. [Erzähle eine kurze Geschichte mit Scratch](/trainingsanleitungen/scratch/scratch-geschichte-katze-und-ente.html)
-    1. [Male Formen mit verschieden vielen Ecken wie Dreiecke, Vierecke oder Siebenecke](/trainingsanleitungen/scratch/scratch-n-ecke-malen.html)
-    1. [Paddle Game - Lass den Ball nicht auf den Boden fallen](/trainingsanleitungen/scratch/scratch-paddle-game.html)
-    1. [Space Shooter - Zerstöre die Meteoriten bevor sie dein Raumschiff zerstören](/trainingsanleitungen/scratch/scratch-space-shooter.html)
-    1. [Zahlen raten - Wie viele Tipps brauchst du?](/trainingsanleitungen/scratch/scratch-zahlenraten.html)
-    1. [Fang mich - Kannst du dem Haifisch entkommen?](/trainingsanleitungen/scratch/scratch-fang-mich.html)
-    1. [Breakout - Pulverisiere bunte Mauersteine](/trainingsanleitungen/scratch/scratch-breakout.html)
-    1. [Snake - Lass die Schlange die Äpfel aufsammeln](/trainingsanleitungen/scratch/scratch-snake.html)
-    1. [Memory - Finde die Paare](/trainingsanleitungen/scratch/scratch-memory.html)
-    1. [Die Zauberlehrlinge - Dieses Spiel kannst du gemeinsam mit einem Freund oder einer Freundin spielen](/trainingsanleitungen/scratch/scratch-zauberlehrlinge.html)
-    1. [Sterne fangen - Springe hoch, um möglichst viele Sterne zu fangen](/trainingsanleitungen/scratch/scratch-sterne-fangen.html)
-    1. [Dragons Realm - Verteidige dein Reich mit Feuerbällen](/trainingsanleitungen/scratch/scratch-dragons-realm.html)
-    1. [Steinschleuder - Füttere den Affen mit Bananen](/trainingsanleitungen/scratch/scratch-slingshot.html)
-    1. [Weihnachtsspiel - Wie viele Geschenke schaffst du in 60 Sekunden?](/trainingsanleitungen/scratch/scratch-weihnachten.html)
-    1. [Sierpinski Dreieck - Male ein Fraktal](/trainingsanleitungen/scratch/scratch-sierpinski-dreieck.html)
-    1. [Pac Man - Friss dich durch's Labyrinth](/trainingsanleitungen/scratch/scratch-pac-man.html)
-    1. [The Game of Life - Erwecke Zellen zum Leben](/trainingsanleitungen/scratch/scratch-the-game-of-life.html)
-    1. [Minesweeper - Finde die Bomben](/trainingsanleitungen/scratch/scratch-minesweeper.html)
-    1. [Weihnachtsspiel 2016 - Dekoriere den Weihnachtsbaum](/trainingsanleitungen/scratch/scratch-weihnachten-2016.html)
-    1. [Finde den Weg aus dem Labyrinth (Scratch/JavaScript)](/trainingsanleitungen/scratch/scratch-labyrinth.html)
-    1. [Chess - Programmiere einen Computerspieler für Schach](/trainingsanleitungen/scratch/scratch-chess.html)
-
+- [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
+- [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
+-  Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge  [Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/){:target="_blank"} ausgearbeitet mit denen du starten kannst.
 - Auch in *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
 - Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es [einige Scratch Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"}, die sich besonders für Anfänger eignen.
 
+ Hast du eigene Ideen für Änderungen oder Erweiterungen? In Scratch kannst du deinen Ideen freien Lauf lassen.
 
 ## Einsteiger: ScratchJr<img src="/images/ScratchJr_Cat.png" style="float:right;height:100px"/>
 Scratch gibt es auch als App für jüngere Kinder: [scratchjr.org](https://www.scratchjr.org/){:target="_blank"}
-1. Die Tüftel Akademie hat einen Online Kurs "[Digitales Programmieren](https://tueftelakademie.de/fuer-lehrende/fortbildungen/digitales-programmieren-erste-schritte){:target="_blank"}" mit ScratchJr
+- Die Tüftel Akademie hat einen Online Kurs "[Digitales Programmieren](https://tueftelakademie.de/fuer-lehrende/fortbildungen/digitales-programmieren-erste-schritte){:target="_blank"}" mit ScratchJr
 
 ## Schildkröten Akademie
 In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="_blank"} kann man lernen mit der Programmiersprache LOGO grossartige Formen auf den Bildschirm zu zeichnen.
@@ -64,7 +43,7 @@ In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="
 ## BBC micro:bit<img src="/images/BBC_micro_bit.png" style="float:right;height:100px"/>
 Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter Einplatinencomputer, der von der British Broadcasting Corporation im Juli 2015 vorgestellt wurde. Vorrangiges Ziel des Projekts ist die Verbesserung der Schulbildung im Bereich der Informationstechnik.
 
-- [Erste Schritte mit micro:bit - Blockprogrammierung](/trainingsanleitungen/microbit/microbit_ErsteSchritte_Block.html)
+- [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/){:target="_blank"}
 - [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
 - [Anleitungen von micro:bit](https://makecode.microbit.org/){:target="_blank"}
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit){:target="_blank"} _(Englisch)_
@@ -78,7 +57,7 @@ Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Ei
 - [Calliope mini auf tigerjython4kids.ch](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/calliope/calliope.inc.php){:target="_blank"}
 
 ## Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:160px"/>
-Thymio ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
+Der [Thymio] (https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
 
 - [Erste Schritte (Thymio Website)](https://www.thymio.org/de:start){:target="_blank"}
 - [Erste Schritte mit Thymio Teil 1 (Video)](https://youtu.be/Emh_I8TB0ZM){:target="_blank"}
@@ -120,55 +99,27 @@ __App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](
 [TigerJython](http://www.tigerjython.ch/){:target="_blank"} ist eine einfache Entwicklungs- und Lernumgebung zum programmieren in Python.
 
 ## Webentwicklung (HTML, JavaScript & Co.)
-1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
-1. [Baue deine erste Webseite](/trainingsanleitungen/web/html-meine-erste-webseite.html)
-1. [Erste Schritte mit CSS](/trainingsanleitungen/web/erste-schritte-mit-css.html)
-1. [Programmiere ein einfaches "Zahlen raten" Spiel mit JavaScript](/trainingsanleitungen/web/javascript-zahlen-raten.html)
-1. [Erste Schritte mit SVG](/trainingsanleitungen/web/erste-schritte-mit-svg.html)
-1. [Deine eigene Webseite im Internet veröffentlichen](/trainingsanleitungen/web/webseite-veroeffentlichen.html)
-1. [Einen Node.js Webserver programmieren](/trainingsanleitungen/web/nodejs-webserver.html)
-1. [Programmiere einen Chat mit Node.js und Socket.io](/trainingsanleitungen/web/nodejs-socketio-chat.html)
-1. [Ein Space Shooter mit TypeScript und Phaser.io](/trainingsanleitungen/web/space-shooter.html)
-1. [Deine eigene Verschlüsselung mit JavaScript](/trainingsanleitungen/web/caesar-verschluesseln.html)
-1. [Präsentationen mit HTML statt PowerPoint](/trainingsanleitungen/web/html-prasentationen.html)
-1. [Fraktalbaum mit SVG](/trainingsanleitungen/web/svg-fraktalbaum.html)
-1. [Hangman mit JavaScript und SVG](/trainingsanleitungen/web/hangman.html)
-1. [Finde den Weg aus dem Labyrinth (Scratch/JavaScript)](/trainingsanleitungen/web/labyrinth-mit-svg.html)
-1. [Schreibtrainer mit SVG](/trainingsanleitungen/web/svg-schreibtrainer.html)
-1. [Erste Schritte mit Hugo](/trainingsanleitungen/web/erste-schritte-mit-hugo.html)
-1. [Snake mit Node.js](/trainingsanleitungen/web/snake-mit-nodejs.html)
+- [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/){:target="_blank"}
+
 
 ## Unity (Spieleentwicklungsplattform)
-1. [Tutorials Englisch](https://unity3d.com/de/learn/tutorials)
+- [Tutorials Englisch](https://unity3d.com/de/learn/tutorials){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/unity/erste-schritte-mit-unity/){:target="_blank"}
 
 ## Minecraft
 - [Minecraft Handbuch auf code-your-life.org](https://www.code-your-life.org/Praxis/Minecraft/1314_Minecraft_Handbuch.htm){:target="_blank"}
-1. [Vorbedingungen - Installationen](/trainingsanleitungen/minecraft-plugins/01_installationen.html)
-1. [Kurzanleitung NetBeans Projektsetup](/trainingsanleitungen/minecraft-plugins/netbeans_cheatsheet.html)
-1. [Plugin 1: Erstes Minecraft-Plugin](/trainingsanleitungen/minecraft-plugins/02_first-plugin.html)
-1. [Plugin 2: Teil 1 - Miraculix (player details)](/trainingsanleitungen/minecraft-plugins/03_getafix-Player.html)
-1. [Plugin 2: Teil 2 - Miraculix (argument handling)](/trainingsanleitungen/minecraft-plugins/04_getafix-Arguments.html)
-1. [Plugin 3: Begrüssen und Verabschieden (listener)](/trainingsanleitungen/minecraft-plugins/05_welcome-Listener.html)
-1. [Plugin 2: Teil 3 - Miraculix (event handling)](/trainingsanleitungen/minecraft-plugins/06_getafix-MagicPotion.html)
-1. [Minecraft-Server mit Scriptcraft installieren](/trainingsanleitungen/minecraft-plugins/lokaler-minecraft-server.html)
-1. [Dein erster, eigener Minecraft-Server](/trainingsanleitungen/minecraft-plugins/minecraft-server.html)
-1. [Scriptcraft am Minecraft-Server installieren](/trainingsanleitungen/minecraft-plugins/07_spigot_scriptcraft_docker.html)
-1. [Programmieren mit Scriptcraft - Grundlagen](/trainingsanleitungen/minecraft-plugins/08_scriptcraft_basics.html)
-1. [Erste Schritte mit Redstone](/trainingsanleitungen/minecraft-plugins/erste-schritte-mit-redstone.html)
-
+- [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/minecraft/){:target="_blank"}
 
 ## Python und JavaScript
-Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir nicht mehr genug? Profis verwenden Programmiersprachen wie *JavaScript* oder *Python*. Im Spiel [Code Combat](https://codecombat.com/){:target="_blank"} kannst du die Grundlagen dieser Sprachen erlernen und dabei dein eigenes Spiel programmieren.<br/>
+Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir nicht mehr genug? Profis verwenden Programmiersprachen wie *JavaScript* oder *Python*. 
+- Im Spiel [Code Combat](https://codecombat.com/){:target="_blank"} kannst du die Grundlagen dieser Sprachen erlernen und dabei dein eigenes Spiel programmieren.
+- [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/python/){:target="_blank"}
 
-### Python
-1. [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python){:target="_blank"}
-1. [Erste Schritte mit Python](/trainingsanleitungen/python/python-erste-schritte.html)
-1. [Geisterspiel](/trainingsanleitungen/python/python-geisterspiel.html)
-1. [Unsinnige Sätze](/trainingsanleitungen/python/python-unsinnige-saetze.html)
 
 ## C# (C Sharp)
-1. [AntMe! Wie schlau ist deine Ameise?](/trainingsanleitungen/csharp/ant-me.html)
-1. [Türme von Hanoi](/trainingsanleitungen/csharp/towers-of-hanoi.html)
+- [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/csharp/){:target="_blank"}
 
 
 ## Andere Projekte Webseiten
