@@ -75,7 +75,7 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 
 - [Start Making BrainPad Arcade](https://www.brainpad.com/arcade/start-making/){:target="_blank"} _(Englisch)_
 - [Start Making BrainPad Classic](https://www.brainpad.com/classic/start-making/){:target="_blank"} _(Englisch)_
-- [Getting Started Guide Deutsch](http://files.ghielectronics.com/downloads/Documents/Guides/BrainPad%20Beginners%20Guide/BrainPad%20Beginners%20Guide%20-%20de.pdf) _(pdf)_
+- [Getting Started Guide Deutsch](/trainingsanleitungen/BrainPad%20Beginners%20Guide%20-%20de.pdf) _(pdf)_
 - [BrainPad Projekte](https://www.brainpad.com/projects/){:target="_blank"} _(Englisch)_
 
 ## Sonic Pi
@@ -93,7 +93,7 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 ## App Inventor
 Mit [App Inventor](http://appinventor.mit.edu/){:target="_blank"} vom MIT kann man mit einer visuelle Block Programmiersprache ähnlich wie Scratch eine eigene App für Android erstellen. 
 
-__App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](http://code.appinventor.mit.edu/?locale=de).__
+_App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](http://code.appinventor.mit.edu/?locale=de)._
 
 ## TigerJython
 [TigerJython](http://www.tigerjython.ch/){:target="_blank"} ist eine einfache Entwicklungs- und Lernumgebung zum programmieren in Python.
