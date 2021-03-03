@@ -13,6 +13,9 @@ title: Sponsoring
 <a href="https://peax.ch" target="_blank"><img src="images/peax-logo.png" style="float:left;height:180px;margin-right:50px"/></a>Vielen Dank an die [PEAX AG](https://peax.ch){:target="_blank"} für die grosszügige finanzielle Unterstützung.
 <br style="clear:both" />
 
+<a href="https://calliope.cc/" target="_blank"><img src="images/calliope_logo.png" style="background:#48525f;float:left;height:80px;margin-right:50px"/></a>Vielen Dank an [Calliope gGmbH]("https://calliope.cc/){:target="_blank"} für die Calliope mini.
+<br style="clear:both" />
+
 Ein ganz grosses Dankeschön an das [CoderDojo Linz](http://coderdojo-linz.github.io). Für diese Webseite durften wir ihren Quellcode übernehmen und für uns anpassen. Ohne diese grosszügige Geste hätten wir nicht in so kurzer Zeit diese Webseite aufbauen können.
 
 ## Wieso Sponsoring?
