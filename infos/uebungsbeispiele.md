@@ -70,6 +70,9 @@ Der [Thymio] (https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der pro
 ## mBot<img src="/images/MBot_in_2_colors.jpg" style="float:right;height:120px"/>
 Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bausatz, der mit Hilfe von [Scratch](https://scratch.mit.edu/){:target="_blank"} oder [Open Roberta](https://www.roberta-home.de/){:target="_blank"} gesteuert werden kann.
 - [Unterrichtsmaterial der PH Bern](https://www.phbern.ch/dienstleistungen/unterrichtsmedien/ideenset-robotik-2/mbot){:target="_blank"}
+- [Erste Schritte mit dem mbot (pdf)](/trainingsanleitungen/mbot/Erste Schritte mit dem mbot.pdf){:target="_blank"}
+- [Einführung und Aufgaben der PH St. Gallen](/trainingsanleitungen/mbot/mbot_aufgaben_PH_StGallen.pdf){:target="_blank"}
+- [Einführungsvideo und Aufgaben von code-your-life.org](https://www.code-your-life.org/Akademie/Fuer_Jugendliche/1447_Arduino_mBot_Hindernis.htm)
 
 ## BrainPad Arcade/Classic <img src="/trainingsanleitungen/brainpad/BrainPads.png" style="float:right;height:150px"/>
 
