@@ -24,6 +24,7 @@ Einplatinen-Computer sind kleine Computer die man programmieren kann und die div
 - [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/){:target="_blank"}
 - [BrainPad](https://www.brainpad.com/classic-start-making/){:target="_blank"}
 - [BrainPad Arcade](https://www.brainpad.com/how-it-works/){:target="_blank"}
+- [Touch Board Inventors Kit](https://www.bareconductive.com/shop/touch-board-starter-kit/)
 
 ## Roboter
 
