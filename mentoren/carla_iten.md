@@ -3,7 +3,7 @@ layout:
 title: Carla Iten
 description:
 image: /mentoren/images/Carla-Iten.jpg
-page-category: mentor
+page-category: mentor-old
 ---
 
 Mit der Ausbildung zur Informatikerin mit Fachrichtung Applikationsentwicklung startete Carla 2006 in die Welt der Informatik.
