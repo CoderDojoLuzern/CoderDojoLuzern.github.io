@@ -15,6 +15,17 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 - [Run Marco](https://runmarco.allcancode.com/){:target="_blank"}: Im Browser den Weg einer Spielfigur mit der richtiger Befehlsreihenfolge programmieren.
 - [Programmieren mit der Maus](https://programmieren.wdrmaus.de/welcome){:target="_blank"}: Lerne mit einfachen Schritt-für-Schritt-Anleitungen das Programmieren mit Scratch-Blöcken mit der Maus vom WDR.
 
+### Kurse auf code.org
+[studio.code.org/courses](https://studio.code.org/courses){:target="_blank"}
+- [Schnellkurs für Leseanfänger](https://studio.code.org/s/pre-express-2019){:target="_blank"}: Eine Einführung in die Informatik für Leseanfänger im Alter von 4-8. 
+- [Expresskurs](https://studio.code.org/s/express-2019){:target="_blank"} Eine Einführung in die Informatik für ältere SchülerInnen im Alter von 9-18.
+- [Kurs A](https://studio.code.org/s/coursea-2017){:target="_blank"}: Eine Einführung in die Informatik für Leseanfänger im Alter von 4-7. 
+- [Kurs B](https://studio.code.org/s/courseb-2017){:target="_blank"}: Eine Einführung in die Informatik für Leseanfänger (wie A) für etwas ältere SchülerInnen (5-8).
+- [Kurs C](https://studio.code.org/s/coursec-2017){:target="_blank"}: Lerne die Grundlagen der Informatik. Alter: 6-10
+- [Kurs D](https://studio.code.org/s/coursed-2017){:target="_blank"}: Konzepte aus Kurs C und weiterführened Themen wie Algorithmen, verschachtelten Schleifen, Bedingungen und mehr. Alter: 7-11
+- [Kurs E](https://studio.code.org/s/coursee-2017){:target="_blank"}: Konzepte aus Kurs C & D und zusätzlich das Thema Funktionen. Alter: 8-12
+- [Kurs F](https://studio.code.org/s/coursef-2017){:target="_blank"}: Lerne alle Konzepte der Informatik. Alter: 9-13
+
 ## Fortgeschrittene: Scratch<img src="/images/Scratch_Cat.png" style="float:right;height:100px"/>
 
 Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.html) erwähnten Spielen folgst du vorgegebenen Übungsaufgaben. Du möchtest jetzt anfangen, deine eigenen Ideen umzusetzen? Dafür ist [Scratch](http://scratch.mit.edu){:target="_blank"} super geeignet.
@@ -57,7 +68,7 @@ Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Ei
 - [Calliope mini auf tigerjython4kids.ch](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/calliope/calliope.inc.php){:target="_blank"}
 
 ## Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:160px"/>
-Der [Thymio] (https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
+Der [Thymio](https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
 
 - [Erste Schritte (Thymio Website)](https://www.thymio.org/de:start){:target="_blank"}
 - [Erste Schritte mit Thymio Teil 1 (Video)](https://youtu.be/Emh_I8TB0ZM){:target="_blank"}
