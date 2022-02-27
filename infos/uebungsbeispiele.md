@@ -34,9 +34,13 @@ Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.htm
 
 - [Lege dein eigenes Konto an für Scratch](/trainingsanleitungen/scratch/scratch-konto-anlegen.html)
 - [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
+- [Scratch Projektideen (PH Schwyz)](/trainingsanleitungen/scratch/ScratchProjektideen.pdf)
 -  Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge  [Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/){:target="_blank"} ausgearbeitet mit denen du starten kannst.
 - Auch in *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
 - Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es [einige Scratch Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"}, die sich besonders für Anfänger eignen.
+ - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#scratch){:target="_blank"}
+
+
 
  Hast du eigene Ideen für Änderungen oder Erweiterungen? In Scratch kannst du deinen Ideen freien Lauf lassen.
 
@@ -55,9 +59,13 @@ In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="
 Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter Einplatinencomputer, der von der British Broadcasting Corporation im Juli 2015 vorgestellt wurde. Vorrangiges Ziel des Projekts ist die Verbesserung der Schulbildung im Bereich der Informationstechnik.
 
 - [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#microbit){:target="_blank"}
 - [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
 - [Anleitungen von micro:bit](https://makecode.microbit.org/){:target="_blank"}
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit){:target="_blank"} _(Englisch)_
+- [hackster.io Projekte](https://www.hackster.io/microbit){:target="_blank"}
+
+
 
 ## Calliope mini<img src="/images/calliope_mini.jpg" style="float:right;height:150px"/>
 Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Einplatinen-Computer mit einem 5x5-Ledfeld, verschiedenen Sensoren und Tasten.
@@ -66,6 +74,7 @@ Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Ei
 - Projektideen der [Tüftel Akademie](https://tueftelakademie.de/fuer-lehrende/unterrichtsmaterialien/calliope-mini-grundschule/){:target="_blank"}
 - [Calliope mini auf code-your-life.org](https://www.code-your-life.org/Praxis/Calliope_mini/1300_Calliope.htm){:target="_blank"}
 - [Calliope mini auf tigerjython4kids.ch](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/calliope/calliope.inc.php){:target="_blank"}
+- [hackster.io Projekte](https://www.hackster.io/calliope-mini){:target="_blank"}
 
 ## Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:160px"/>
 Der [Thymio](https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
@@ -95,7 +104,7 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 
 ## Sonic Pi
 [Sonic Pi](https://sonic-pi.net/){:target="_blank"} ist ein Open-Source-Musikprogramm, das für den Kleincomputer [Raspberry Pi](https://www.raspberrypi.org/){:target="_blank"} entwickelt wurde. Das Programm funktioniert neben dem Pi auch auf anderen Computern mit Linux, Mac-OS, oder Windows als Betriebssystemen. Programmquelltext bildet die Grundlage für die Klangerzeugung. Durch sogenanntes „Live Coding“ kann in Echtzeit eine laufende Schleife geändert werden und so die erzeugte Klangfolge verändert werden.
-- [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?software[]=sonic-pi){:target="_blank"} _(Englisch)_
+- [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?software%5B%5D=sonic-pi){:target="_blank"} _(Englisch)_
 - [Tutorial](https://sonic-pi.net/tutorial.html){:target="_blank"} _(Englisch)_
 - [Audio-Programmierung mit Sonic Pi in Raspberry Pi Geek Teil 1-3](https://www.raspberry-pi-geek.de/ausgaben/rpg/2019/04/audio-programmierung-mit-sonic-pi-teil-3/){:target="_blank"}
 
@@ -116,10 +125,12 @@ _App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](h
 ## Webentwicklung (HTML, JavaScript & Co.)
 - [Anfänger Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#web){:target="_blank"}
 
 
 ## Unity (Spieleentwicklungsplattform)
 - [Tutorials Englisch](https://unity3d.com/de/learn/tutorials){:target="_blank"}
+- [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?software%5B%5D=unity){:target="_blank"} _(Englisch)_
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/unity/erste-schritte-mit-unity/){:target="_blank"}
 
 ## Minecraft
@@ -135,6 +146,7 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 
 ## C# (C Sharp)
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/csharp/){:target="_blank"}
+- [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#csharp){:target="_blank"}
 
 
 ## Andere Projekte Webseiten
