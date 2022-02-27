@@ -87,10 +87,11 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 
 ## BrainPad Arcade/Classic <img src="/trainingsanleitungen/brainpad/BrainPads.png" style="float:right;height:150px"/>
 
-- [Start Making BrainPad Arcade](https://www.brainpad.com/arcade/start-making/){:target="_blank"} _(Englisch)_
-- [Start Making BrainPad Classic](https://www.brainpad.com/classic/start-making/){:target="_blank"} _(Englisch)_
+- [Start Making BrainPad Arcade](https://www.brainpad.com/arcade){:target="_blank"} _(Englisch)_
+- [Start Making BrainPad Classic](https://www.brainpad.com/classic){:target="_blank"} _(Englisch)_
 - [Getting Started Guide Deutsch](/trainingsanleitungen/BrainPad%20Beginners%20Guide%20-%20de.pdf) _(pdf)_
-- [BrainPad Projekte](https://www.brainpad.com/projects/){:target="_blank"} _(Englisch)_
+- [BrainPad Arcade Projekte](https://arcade.makecode.com/){:target="_blank"} _(Englisch)_
+- [BrainPad Classic Projekte](https://classic.brainpad.com){:target="_blank"} _(Englisch)_
 
 ## Sonic Pi
 [Sonic Pi](https://sonic-pi.net/){:target="_blank"} ist ein Open-Source-Musikprogramm, das für den Kleincomputer [Raspberry Pi](https://www.raspberrypi.org/){:target="_blank"} entwickelt wurde. Das Programm funktioniert neben dem Pi auch auf anderen Computern mit Linux, Mac-OS, oder Windows als Betriebssystemen. Programmquelltext bildet die Grundlage für die Klangerzeugung. Durch sogenanntes „Live Coding“ kann in Echtzeit eine laufende Schleife geändert werden und so die erzeugte Klangfolge verändert werden.
