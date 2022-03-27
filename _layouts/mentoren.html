@@ -14,15 +14,4 @@ layout: default
 	{% endif %}
 {% endfor %}
 
-<h1>Unsere Ninja Mentorinnen und Mentoren</h1>
-{% for page in site.pages %}
-	{% if page.page-category == "ninja-mentor" %}
-<div class="clearfix">
-	<img src="{{ page.image }}" class="mentor-image pull-left" />
-	<h3><a name="{{ page.title }}">{{ page.title }}</a></h3>
-	{{ page.content }}
-</div>
-	{% endif %}
-{% endfor %}
-
 {{ content }}
