@@ -16,7 +16,8 @@ So läuft dein erster Besuch beim CoderDojo Luzern ab:
 1. Du füllst das <a href="#form">Anmeldeformular</a> unten aus.<br/>
    <a class="btn btn-material-luzern-blue" href="#form">Anmeldung&nbsp;...</a>&nbsp;
 
-1. Wir schicken dir eine Email und bestätigen den Termin.
+1. Wir schicken dir eine Email und bestätigen den Termin.<br/>
+_Bitte beachte, dass es aus organisatorischen Gründen eine Weile dauern kann, bis du von uns eine Email bekommst. Wir geben uns aber Mühe, dass du spätestens in der Woche vor dem CoderDojo Termin diese bekommst. Sollte das nicht der Fall sein, darfst du ohne Weiters trotzdem einfach kommen._
 
 1. Du kommst mit <a href="/infos/eltern.html#Laptop" target="_blank">deinem Laptop</a> zum CoderDojo Luzern in die <a href="#bbv">bbv</a>. Falls du keinen eigenen Laptop hast, gib im Anmeldeformular an, dass du ein Leihgerät brauchst.
 
