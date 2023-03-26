@@ -40,3 +40,4 @@ Einplatinen-Computer sind kleine Computer die man programmieren kann und die div
 
 - ["222 Anleitungen für den Raspberry Pi 4 - Mach’s einfach"](https://www.franzis.de/maker/raspberry-pi-arduino-und-mehr/222-anleitungen-fuer-den-raspberry-pi-4-mach-s-einfach-buch){:target="_blank"}
 - ["Der kleine Hacker - Programmieren lernen mit dem Calliope mini"](https://www.franzis.de/computing/programmieren-lernen-verstehen/der-kleine-hacker-programmieren-lernen-mit-dem-calliope-mini-e-book-pdf){:target="_blank"}
+- ["PROGRAMMIEREN FÜR KIDS - 20 SPIELE MIT SCRATCH 3.0"](https://www.exlibris.ch/de/buecher-buch/deutschsprachige-buecher/max-wainewright/programmieren-fuer-kids-20-spiele-mit-scratch-3-0/id/9783741525773/){:target="_blank"}
