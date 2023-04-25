@@ -6,6 +6,8 @@ description: Lerne Programmieren mit Hour of Code
 
 # Programmieren lernen mit *Hour of Code*
 
+*Hour of Code* bietet einige [Anleitungen auf Deutsch](https://hourofcode.com/us/de/learn){:target="_blank"}. Auf dieser Seite haben wir ein paar aufgelistet die sich gut für Anfänger eignen
+
 ## Anfänger: Programmieren mit Blöcken
 **Hinweis**
 Die "Hour of Code" Anleitungen beinhalten Videos in Englisch mit meist deutschem Untertitel. Man kann den Untertitel bei den Video Einstellungen einschalten. Nicht alle Videos haben deutsche Untertitel, beachte die Hinweise auf dieser Seite.

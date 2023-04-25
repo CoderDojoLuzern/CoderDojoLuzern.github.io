@@ -61,6 +61,7 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 - [Python Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=python){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/python/){:target="_blank"}
 - [TigerJython](http://www.tigerjython.ch/){:target="_blank"} ist eine einfache Entwicklungs- und Lernumgebung zum programmieren in Python.
+- [JavaScript Hero](https://www.jshero.net/home.html){:target="_blank"}
 
 - [Raspberry Pi Foundation learning path](https://projects.raspberrypi.org/en/collections/python){:target="_blank"} _(Englisch)_
 - [Hour of Python](https://hourofpython.com/){:target="_blank"} _(Englisch)_
@@ -193,6 +194,7 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 - [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card){:target="_blank"}
 - [code-your-life.org](https://www.code-your-life.org/){:target="_blank"}
 - [Silicon Valley Kids](https://www.sivakids.de/){:target="_blank"}
+- [Code it! - Online Programmierkurse für Kinder](https://app.code-it-studio.de/)
 
 ## Freie Kurse auf code.org
 [studio.code.org/courses](https://studio.code.org/courses){:target="_blank"}
@@ -208,6 +210,7 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 ## Andere Angebote in Englisch
 - [Looking Glass](https://lookingglass.wustl.edu){:target="_blank"} ist ein Programm zum Herunterladen, mit dem Jugendliche 3D-Animationen erstellen und in einer Community präsentieren können.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/){:target="_blank"} ist eine iOS-App für iPads, in der Kinder und Jugendliche die Programmiersprache Swift lernen können indem sie mit Code verschiedene interaktive Rätsel lösen.
+- [toxicode Learn to code](http://www.toxicode.fr/learn)
 
 ## Freie Magazine zum Thema Programmieren (für Kinder)
 - [Hello World](https://helloworld.raspberrypi.org/){:target="_blank"}  _(Englisch)_
