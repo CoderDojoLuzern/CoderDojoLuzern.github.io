@@ -84,7 +84,7 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 ### BBC micro:bit<img src="/images/BBC_micro_bit.png" style="float:right;height:100px"/>
 Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter Einplatinencomputer, der von der British Broadcasting Corporation im Juli 2015 vorgestellt wurde. Vorrangiges Ziel des Projekts ist die Verbesserung der Schulbildung im Bereich der Informationstechnik.
 
-- [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/){:target="_blank"}
+- [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/uebungsanleitungen/){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#microbit){:target="_blank"}
 - [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
 - [Anleitungen von micro:bit](https://makecode.microbit.org/){:target="_blank"}
@@ -131,6 +131,7 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 ### Raspberry Pi <img src="/images/Raspberry_Pi_4.jpg" style="float:right;height:100px"/>
 - [Mit dem Raspberry Pi programmieren lernen in nur 4 einfachen Schritten](https://www.sivakids.de/raspberry-pi-programmieren/){:target="_blank"}
 - [Tutorials for Raspberry Pi (deutsch)](https://tutorials-raspberrypi.de/){:target="_blank"}
+- [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/raspberry-pi/){:target="_blank"}
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects?hardware%5B%5D=raspberry-pi){:target="_blank"}
 - [Get Started with Raspberry Pi](https://magpi.raspberrypi.com/books/get-started){:target="_blank"} _(Buch als pdf in Englisch)_
 - [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed){:target="_blank"} _(Buch als pdf in Englisch)_
@@ -181,6 +182,8 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#csharp){:target="_blank"}
 
 ## Andere Projekte Webseiten
+- [CoderDojo Wien](https://wien.coderdojo.net/exercises/){:target="_blank"}
+- [CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/){:target="_blank"}
 - [1, 2, 3 ... kodiert, programmiert, verschlüsselt! – Informatik in der Grund­schule (sonnentaler.net)](https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/){:target="_blank"}
 - [projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects){:target="_blank"}
 - [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card){:target="_blank"}
