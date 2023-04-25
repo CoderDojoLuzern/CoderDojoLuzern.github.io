@@ -25,10 +25,10 @@ Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.htm
 - [Erste Schritte - Lass Scratchy, die Katze, herumlaufen](/trainingsanleitungen/scratch/scratch-erste-schritte.html)
 - [Mit Scratch programmieren lernen in 11 Schritten](https://www.sivakids.de/scratch-programmieren/){:target="_blank"}
 - [Scratch Projektideen (PH Schwyz)](/trainingsanleitungen/scratch/ScratchProjektideen.pdf){:target="_blank"}
--  Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge  [Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/){:target="_blank"} ausgearbeitet mit denen du starten kannst.
-- Auch in *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
+- Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge [Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/){:target="_blank"} ausgearbeitet mit denen du starten kannst.
+- Auch das [CoderDojo Wien](https://wien.coderdojo.net){:target="_blank"} hat eine Menge [Übungsanleitungen](https://wien.coderdojo.net/exercises/#scratch){:target="_blank"} auf ihrer webseite.
+- In *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
 - Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es [einige Scratch Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"}, die sich besonders für Anfänger eignen.
-- [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#scratch){:target="_blank"}
 
 - [Scratch ideas](https://scratch.mit.edu/ideas){:target="_blank"} _(Englisch)_
 - [Raspberry Pi Foundation learning path](https://projects.raspberrypi.org/en/collections/scratch){:target="_blank"} _(Englisch)_
