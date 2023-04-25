@@ -51,6 +51,10 @@ In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="
 [TurtleCoder](https://www.code-your-life.org/Praxis/Logo_Turtle/1349_Der_TurtleCoder.htm){:target="_blank"} ist eine moderne Interpretation  von LOGO. Sie wurde für 9- bis 12-Jährige Kinder entwickelt. Der Grundsatz besteht darin, einer kleinen Schildkröte auf einer Zeichenfläche Befehle zu geben, die sofort nachvollziehbar „Spuren“ hinterlassen. Ziel ist vom einfachen Strich bis zu komplexen rekursiven Baum viele strukturelle Elemente des Programmierens selbstständig zu entdecken.
 TurtleCoder steht zur einfachen Nutzung in einem modernen Internetbrowser zur Verfügung.
 
+
+## Hedy
+[Hedy](https://hedy.org/) ist der einfache Weg mit textbasierten Sprachen zu beginnen. Es ist eine mitwachsende, mehrsprachige Programmiersprache, die darauf abzielt, Programmieren und die Programmiersprache Python zu lernen.
+
 ## Python und JavaScript
 Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir nicht mehr genug? Profis verwenden Programmiersprachen wie *JavaScript* oder *Python*. 
 - Im Spiel [Code Combat](https://codecombat.com/){:target="_blank"} kannst du die Grundlagen dieser Sprachen erlernen und dabei dein eigenes Spiel programmieren.
