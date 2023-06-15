@@ -23,8 +23,6 @@ _Bitte beachte, dass es aus organisatorischen Gründen eine Weile dauern kann, b
 
 1. Eine Mentorin oder ein Mentor vom CoderDojo Luzern zeigt dir, wie das CoderDojo funktioniert und gibt dir Tipps, womit und wie du starten könntest.
 
-## __Wichtig: _Da der letzte Sonntag im Mai auf den Pfingstsonntag fällt, findet das CoderDojo ausnahmsweise eine Woche früher am 21. Mai statt.___
-
 ## <a name="form" />Anmeldung
 
 <div class="row registration-form">
