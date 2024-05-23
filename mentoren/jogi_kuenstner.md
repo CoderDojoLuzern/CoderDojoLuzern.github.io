@@ -3,7 +3,7 @@ layout:
 title: Jogi (Jörg) Künstner
 description:
 image: /mentoren/images/Jogi-Kuenstner.jpg
-page-category: mentor
+page-category: mentor-old
 ---
 
 Seinen ersten Computer hat Jogi im Alter von 15 noch komplett selbst
