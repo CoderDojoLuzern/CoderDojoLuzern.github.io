@@ -36,7 +36,7 @@ _Bitte beachte, dass es aus organisatorischen Gründen eine Weile dauern kann, b
             <h3>Fehler bei der Anmeldung</h3>
             <p>Die Anmeldung ist leider fehlgeschlagen. Bitte kontaktiere uns unter <a href="mailto:coderdojo.luzern@gmail.com">coderdojo.luzern@gmail.com</a>.</p>
         </div>
-        <form class="registration" id="registration-form" method="POST" action="https://formspree.io/coderdojo.luzern@gmail.com">
+        <form class="registration" id="registration-form" method="POST" action="https://formspree.io/f/coderdojo.luzern@gmail.com">
             <h3>Ich möchte zum ersten Mal zum CoderDojo kommen</h3>
             <div class="form-group">
               <label for="event">Termin</label>
@@ -87,7 +87,8 @@ _Bitte beachte, dass es aus organisatorischen Gründen eine Weile dauern kann, b
             <input type="hidden" name="_next" value="/anmeldung-erfolgreich" />
             <input type="hidden" name="_language" value="de" />
             <div class="pull-right">
-                <button type="submit" class="btn btn-material-luzern-blue">Anmelden</button>
+            <button class="g-recaptcha btn btn-material-luzern-blue" data-sitekey="6LdDwwQqAAAAALJf0OjPQXEVy83rXnG_HeUML0EZ"
+            data-callback='onSubmit' data-action='submit'>Anmelden</button>
             </div>
         </form>
     </div>
