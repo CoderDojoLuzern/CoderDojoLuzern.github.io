@@ -12,6 +12,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 
 ## Einsteiger
 - [Grafisches Programmieren mit Programmierspielen von *Hour of Code* lernen](/trainingsanleitungen/hour-of-code/hour-of-code.html)
+- [Online Programmierkurse für Kinder (Code it)](https://app.code-it-studio.de/){:target="_blank"}
 - [Run Marco](https://runmarco.allcancode.com/){:target="_blank"}: Im Browser den Weg einer Spielfigur mit der richtiger Befehlsreihenfolge programmieren.
 - [Programmieren mit der Maus](https://programmieren.wdrmaus.de/welcome){:target="_blank"}: Lerne mit einfachen Schritt-für-Schritt-Anleitungen das Programmieren mit Scratch-Blöcken mit der Maus vom WDR.
 
