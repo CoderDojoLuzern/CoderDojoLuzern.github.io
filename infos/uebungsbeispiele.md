@@ -92,12 +92,18 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 
 - [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/uebungsanleitungen/){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#microbit){:target="_blank"}
-- [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
+- [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
 - [Anleitungen von micro:bit](https://makecode.microbit.org/){:target="_blank"}
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects?hardware%5B%5D=microbit){:target="_blank"}
 - [hackster.io Projekte](https://www.hackster.io/microbit){:target="_blank"}
 - [micro:bit - Das Schulbuch](https://microbit.eeducation.at/wiki/Hauptseite)
 - [mirco:mag](https://magazines.micromag.cc/){:target="_blank"} _(pdf Magazine in Englisch)_
+
+#### Maqueen micro:bit Roboter
+Maqueen micro:bit Robot ist ein Roboter, der von einem micro:bit gesteuert wird. Maqueen hat zwei Räder, die unabhängig angesteuert werden können, LEDS, Sensoren, ...
+Maqueen kann z.B. in der MakeCode Browser-Programmierumgebung programmiert werden (Blöcke, Python, JavaScript). Dazu unter [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"} ein neues Projekt erstellen, dann unter `+ Erweiterungen`, bzw. der Auswahl, die darauf erscheint, zu `maqueen` navigieren und anklicken. Damit werden die Roboter-Spezifischen Erweiterungen unter `m Maqueen` in die Bibliothek geladen.
+- [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"}: Maqueen Browser-Programmierumgebung für Blocksprache, Python und JavaScript
+- [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
 
 ### Calliope mini<img src="/images/calliope_mini.jpg" style="float:right;height:150px"/>
 Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Einplatinen-Computer mit einem 5x5-Ledfeld, verschiedenen Sensoren und Tasten.
