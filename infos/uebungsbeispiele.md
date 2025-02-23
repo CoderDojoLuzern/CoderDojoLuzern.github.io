@@ -169,6 +169,13 @@ __Quick Start__
 - [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022){:target="_blank"} _(Buch als pdf in Englisch)_
 - [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021){:target="_blank"} _(Buch als pdf in Englisch)_
 
+### Pimoroni PicoSystem - RP2040 Handheld Gaming System <img src="/images/PIM559.jpg" style="float:right;height:100px"/>
+PicoSystem ist eine kompakte Spielkonsole mit Raspberry Pis RP2040-Chip. Sie verfügt über einen Farbbildschirm, vollständige Steuerung und einen Dual-Core-Mikrocontroller. Dank Pimoronis Tutorials kann sie in C oder MicroPython programmiert werden – ideal für eigene Spiele und interaktive Kunst.
+- [PicoSystem API Cheatsheet](https://learn.pimoroni.com/article/picosystem-api-cheatsheet){:target="_blank"} _(Englisch)_
+- [PicoSystem libraries and examples C++](https://github.com/pimoroni/picosystem){:target="_blank"} _(github Englisch)_
+- [PicoSystem MicroPython](https://github.com/pimoroni/picosystem/tree/main/micropython){:target="_blank"} _(github Englisch)_
+
+
 ## Sonic Pi<img src="/images/sonicpi-logo.png" style="float:right;height:100px"/>
 
 [Sonic Pi](https://sonic-pi.net/){:target="_blank"} ist ein Open-Source-Musikprogramm, das für den Kleincomputer [Raspberry Pi](https://www.raspberrypi.org/){:target="_blank"} entwickelt wurde. Das Programm funktioniert neben dem Pi auch auf anderen Computern mit Linux, Mac-OS, oder Windows als Betriebssystemen. Programmquelltext bildet die Grundlage für die Klangerzeugung. Durch sogenanntes „Live Coding“ kann in Echtzeit eine laufende Schleife geändert werden und so die erzeugte Klangfolge verändert werden.
