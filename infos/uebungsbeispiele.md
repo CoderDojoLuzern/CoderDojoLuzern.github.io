@@ -132,6 +132,14 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 - [Einführung und Aufgaben der PH St. Gallen](/trainingsanleitungen/mbot/mbot_aufgaben_PH_StGallen.pdf){:target="_blank"}
 - [Einführungsvideo und Aufgaben von code-your-life.org](https://www.code-your-life.org/Akademie/Fuer_Jugendliche/1447_Arduino_mBot_Hindernis.htm){:target="_blank"}
 
+
+### CircuitMess Batmobile <img src="/images/CircuirMess_Batmobile.jpg" style="float:right;height:150px"/>
+Der CircuitMess Batmobile™ Elektronik Bausatz haben wir bereits zusammengebaut und ist bereit zum Programmieren. Sowohl das Batmobile™ als auch den dazugehörigen Kontroller können mit [CircuitBlocks](https://github.com/CircuitMess/CircuitBlocks/releases/){:target="_blank"} programmiert werden, eine anfängerfreundliche Codierungs-App, die es ermöglicht, benutzerdefinierte Lichtshows und Bewegungsabläufe zu erstellen. 
+- [CircuitBlocks](https://code.circuitmess.com){:target="_blank"} web-based IDE (Programierumgebung)
+- [How to code your Batmobile?](https://circuitmess.com/blogs/resources/how-to-code-your-batmobile){:target="_blank"} _(Englisch Videos)_
+- [Advanced Batcontroller Coding Using Arduino IDE](https://circuitmess.com/blogs/resources/advanced-batcontroller-coding-using-arduino-ide){:target="_blank"} _(Englisch)_
+- [Advanced Batmobile Coding Using Arduino IDE](https://circuitmess.com/blogs/resources/advanced-batmobile-coding-using-arduino-ide){:target="_blank"} _(Englisch)_
+
 ### BrainPad Arcade/Classic <img src="/trainingsanleitungen/brainpad/BrainPads.png" style="float:right;height:150px"/>
 
 - [Start Making BrainPad Arcade](https://www.brainpad.com/arcade){:target="_blank"} _(Englisch)_
