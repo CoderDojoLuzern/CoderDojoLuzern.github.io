@@ -259,7 +259,8 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 ## Freie Magazine zum Thema Programmieren (für Kinder)
 - [Hello World](https://helloworld.raspberrypi.org/){:target="_blank"}  _(Englisch)_
 - [micro:mag](https://magazines.micromag.cc/){:target="_blank"}  _(Englisch)_
-- [The MagPi Magazine](https://magpi.raspberrypi.com/) _(Englisch)_
+- [The MagPi Magazine](https://magpi.raspberrypi.com/){:target="_blank"}  _(Englisch)_
+- [HackSpace](https://hackspace.raspberrypi.com/){:target="_blank"}  _(Englisch)_
 
 ## Änderungen und Ergänzungen
 Möchtet ihr an den Beispielen etwas ändern? Habt ihr einen Fehler entdeckt? Möchtet ihr eigene Beispiele hinzufügen? Diese Webseite steht vollständig im Quelltext auf Github unter [github.com/CoderDojoLuzern/CoderDojoLuzern.github.io](https://github.com/CoderDojoLuzern/CoderDojoLuzern.github.io/){:target="_blank"} zur Verfügung. Unsere regelmässigen Mentoren können jederzeit Schreibzugriff haben. Alle anderen bitten wir bei Änderungswünschen um [Pull-Requests](https://help.github.com/articles/using-pull-requests/){:target="_blank"}.
