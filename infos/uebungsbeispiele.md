@@ -117,7 +117,7 @@ Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Ei
 ### Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:160px"/>
 Der [Thymio](https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
 
-- [Erste Schritte (Thymio Website)](https://www.thymio.org/de:start){:target="_blank"}
+- [Erste Schritte (Thymio Website)](https://www.thymio.org/de/produkte/mit-thymio-suite-programmieren/){:target="_blank"}
 - [Erste Schritte mit Thymio Teil 1 (Video)](https://youtu.be/Emh_I8TB0ZM){:target="_blank"}
 - [Erste Schritte mit Thymio Teil 2 (Video)](https://youtu.be/YiggEVmdv7g){:target="_blank"}
 - [Eine Einführung in die Welt der Robotor (pdf)](https://aseba.wdfiles.com/local--files/de:thymioschoolprojects/Zyklus1-SUS.pdf){:target="_blank"}
