@@ -236,6 +236,11 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/csharp/){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#csharp){:target="_blank"}
 
+
+## TIC-80 tiny computer
+[TIC-80](https://tic80.com/){:target="_blank"} ist ein KOSTENLOSER und OPEN SOURCE-Fantasy-Computer zum Erstellen, Spielen und Teilen kleiner Spiele.
+-[Github wiki](https://github.com/nesbox/TIC-80/wiki){:target="_blank"} _(Englisch)_
+
 ## Andere Projekte Webseiten
 - [CoderDojo Wien](https://wien.coderdojo.net/exercises/){:target="_blank"}
 - [CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/){:target="_blank"}
