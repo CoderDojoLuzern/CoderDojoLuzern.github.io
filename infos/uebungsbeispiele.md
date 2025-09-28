@@ -139,6 +139,7 @@ Der CircuitMess Batmobile™ Elektronik Bausatz haben wir bereits zusammengebaut
 - [How to code your Batmobile?](https://circuitmess.com/blogs/resources/how-to-code-your-batmobile){:target="_blank"} _(Englisch Videos)_
 - [Advanced Batcontroller Coding Using Arduino IDE](https://circuitmess.com/blogs/resources/advanced-batcontroller-coding-using-arduino-ide){:target="_blank"} _(Englisch)_
 - [Advanced Batmobile Coding Using Arduino IDE](https://circuitmess.com/blogs/resources/advanced-batmobile-coding-using-arduino-ide){:target="_blank"} _(Englisch)_
+- [Guides and Videos](https://medium.com/circuitmess/the-end-of-an-era-13ab2d2b5e9a){:target="_blank"} _(Englisch)_
 
 ### BrainPad Arcade/Classic <img src="/trainingsanleitungen/brainpad/BrainPads.png" style="float:right;height:150px"/>
 

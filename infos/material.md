@@ -33,6 +33,7 @@ Einplatinen-Computer sind kleine Computer die man programmieren kann und die div
 - [mBot](https://www.makeblock.com/mbot){:target="_blank"}
 - [Micro:Maqueen lite](https://www.dfrobot.com/product-1783.html){:target="_blank"}
 - [Micro:Maqueen Plus](https://www.dfrobot.com/product-2026.html){:target="_blank"}
+- [CircuitMess Batmobile](https://circuitmess.com/blogs/resources/batmobile-build-guide){:target="_blank"}
 
 ## Bausätze
 - ["Raspberry Pi - verstehen und anwenden"](https://www.conrad.ch/de/p/conrad-components-1225953-raspberry-pi-elektronik-lernpaket-1225953.html){:target="_blank"} Lernpacket von Conrad
