@@ -72,6 +72,8 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 
 - [Online Code Editor (Beta)](https://editor.raspberrypi.org/en/){:target="_blank"}
 
+- [AstroPi Mission Zero](https://astro-pi.org/de/mission-zero){:target="_blank"}
+
 ### Webentwicklung (HTML, CSS & JavaScript)
 - [HTML/CSS Projekte auf RaspberryPi.org](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=html-css-javascript){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/web/){:target="_blank"}
@@ -169,6 +171,7 @@ __Quick Start__
 - [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023){:target="_blank"} _(Buch als pdf in Englisch)_
 - [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022){:target="_blank"} _(Buch als pdf in Englisch)_
 - [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021){:target="_blank"} _(Buch als pdf in Englisch)_
+- [AstroPi Mission Zero](https://astro-pi.org/de/mission-zero){:target="_blank"}
 
 ### Pimoroni PicoSystem - RP2040 Handheld Gaming System <img src="/images/PIM559.jpg" style="float:right;height:100px"/>
 PicoSystem ist eine kompakte Spielkonsole mit Raspberry Pis RP2040-Chip. Sie verfügt über einen Farbbildschirm, vollständige Steuerung und einen Dual-Core-Mikrocontroller. Dank Pimoronis Tutorials kann sie in C oder MicroPython programmiert werden – ideal für eigene Spiele und interaktive Kunst.
