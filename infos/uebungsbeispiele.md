@@ -106,6 +106,8 @@ Maqueen micro:bit Robot ist ein Roboter, der von einem micro:bit gesteuert wird.
 Maqueen kann z.B. in der MakeCode Browser-Programmierumgebung programmiert werden (Blöcke, Python, JavaScript). Dazu unter [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"} ein neues Projekt erstellen, dann unter `+ Erweiterungen`, bzw. der Auswahl, die darauf erscheint, zu `maqueen` navigieren und anklicken. Damit werden die Roboter-Spezifischen Erweiterungen unter `m Maqueen` in die Bibliothek geladen.
 - [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"}: Maqueen Browser-Programmierumgebung für Blocksprache, Python und JavaScript
 - [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} und [Maqueen micro:bit Robot](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mbrobot/mbrobot.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
+- [Maqueen Mechanic Getting Started Guide (pdf)](/trainingsanleitungen/Maqueen_Mechanic_gettingStarted.pdf){:target="_blank"}
+
 
 ### Calliope mini<img src="/images/calliope_mini.jpg" style="float:right;height:150px"/>
 Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Einplatinen-Computer mit einem 5x5-Ledfeld, verschiedenen Sensoren und Tasten.
