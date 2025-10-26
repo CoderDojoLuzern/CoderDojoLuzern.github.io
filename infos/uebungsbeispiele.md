@@ -45,12 +45,19 @@ Scratch gibt es auch als App für jüngere Kinder: [scratchjr.org](https://www.s
 ## LOGO
 [LOGO](https://de.wikipedia.org/wiki/Logo_(Programmiersprache)){:target="_blank"} ist eine bildungsorientierte funktionale Programmiersprache, die 1967 am MIT entworfen wurde. Logo ist leicht zu erlernen und war vor allem in den 1980er Jahren verbreitet, also zur Zeit der Heimcomputer.
 Heute gibt es modernere Interpretationen davon:
+
+### XLogo
+- [Unterrichtsmaterialien (ETH Zürich)](https://abz.inf.ethz.ch/volksschule/unterrichtsmaterialien/){:target="_blank"}
+- [XLogoOnline](https://xlogo.inf.ethz.ch/){:target="_blank"}
+
 ### Schildkröten Akademie
 In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="_blank"} kann man lernen mit der Programmiersprache LOGO grossartige Formen auf den Bildschirm zu zeichnen.
 
 ### TurtleCoder
 [TurtleCoder](https://www.code-your-life.org/Praxis/Logo_Turtle/1349_Der_TurtleCoder.htm){:target="_blank"} ist eine moderne Interpretation  von LOGO. Sie wurde für 9- bis 12-Jährige Kinder entwickelt. Der Grundsatz besteht darin, einer kleinen Schildkröte auf einer Zeichenfläche Befehle zu geben, die sofort nachvollziehbar „Spuren“ hinterlassen. Ziel ist vom einfachen Strich bis zu komplexen rekursiven Baum viele strukturelle Elemente des Programmierens selbstständig zu entdecken.
 TurtleCoder steht zur einfachen Nutzung in einem modernen Internetbrowser zur Verfügung.
+
+
 
 
 ## Hedy
