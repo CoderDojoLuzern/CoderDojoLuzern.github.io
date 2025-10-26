@@ -101,7 +101,7 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 - [micro:bit - Das Schulbuch](https://microbit.eeducation.at/wiki/Hauptseite)
 - [mirco:mag](https://magazines.micromag.cc/){:target="_blank"} _(pdf Magazine in Englisch)_
 
-#### Maqueen micro:bit Roboter
+### Maqueen micro:bit Roboter<img src="/images/maqueen-plus-pour-microbit.webp" style="float:right;height:100px"/>
 Maqueen micro:bit Robot ist ein Roboter, der von einem micro:bit gesteuert wird. Maqueen hat zwei Räder, die unabhängig angesteuert werden können, LEDS, Sensoren, ...
 Maqueen kann z.B. in der MakeCode Browser-Programmierumgebung programmiert werden (Blöcke, Python, JavaScript). Dazu unter [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"} ein neues Projekt erstellen, dann unter `+ Erweiterungen`, bzw. der Auswahl, die darauf erscheint, zu `maqueen` navigieren und anklicken. Damit werden die Roboter-Spezifischen Erweiterungen unter `m Maqueen` in die Bibliothek geladen.
 - [makecode.microbit.org](https://makecode.microbit.org/){:target="_blank"}: Maqueen Browser-Programmierumgebung für Blocksprache, Python und JavaScript
@@ -164,6 +164,8 @@ __Quick Start__
 
 
 ### Raspberry Pi <img src="/images/Raspberry_Pi_4.jpg" style="float:right;height:100px"/>
+Der Raspberry Pi ist ein Einplatinencomputer, der von der britischen Raspberry Pi Foundation entwickelt wurde. Der im Vergleich zu üblichen PCs sehr einfach aufgebaute Rechner wurde von der Stiftung mit dem Ziel entwickelt, jungen Menschen den Erwerb von Programmier- und Hardware-Kenntnissen zu erleichtern.
+
 - [Mit dem Raspberry Pi programmieren lernen in nur 4 einfachen Schritten](https://www.sivakids.de/raspberry-pi-programmieren/){:target="_blank"}
 - [Tutorials for Raspberry Pi (deutsch)](https://tutorials-raspberrypi.de/){:target="_blank"}
 - [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/raspberry-pi/){:target="_blank"}
@@ -205,6 +207,7 @@ _App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](h
 ## Spieleentwicklung
 
 ### Unity
+Unity ist eine Laufzeit- und Entwicklungsumgebung für Spiele. Die in Unity eingebauten Mechanismen können über selbst geschriebene Programme, sogenannte Skripte, ergänzt werden. Skripte sind notwendig, um Spielablauf und -logik zu beschreiben. Das Skripting in Unity basiert auf Mono und bietet als mögliche Skriptsprache C#. 
 - [Tutorials Englisch](https://learn.unity.com/){:target="_blank"}
 - [Hour of Code - Creator Kit: Beginner Coding](https://learn.unity.com/project/hour-of-code-creator-kit-beginner-coding){:target="_blank"}
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?software%5B%5D=unity){:target="_blank"} _(Englisch)_
@@ -212,6 +215,7 @@ _App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](h
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/unity/erste-schritte-mit-unity/){:target="_blank"}
 
 ### Unreal 
+Unreal Engine ist eine Grafik-Engine von Epic Games. Das Framework der Unreal Engine besteht unter anderem aus der Grafik-Engine, der Skriptsprache UnrealScript und weiteren Hilfsprogrammen wie dem Leveleditor UnrealEd. Als Programmierspache wird C++ benutzt.
 - [Erste Schritte Tutorials (_englisch_)](https://dev.epicgames.com/community/unreal-engine/getting-started/games){:target="_blank"}
 - [Hour of Code](https://www.unrealengine.com/de/lesson-plans?tags=hour%20of%20code){:target="_blank"}
     - Lektion 1 [Anleitung Deutsch (_pdf_)](https://cdn2.unrealengine.com/guides-ue-hoc-activity1-de-76b94cf80b4c.pdf){:target="_blank"}
