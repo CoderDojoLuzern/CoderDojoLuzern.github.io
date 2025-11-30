@@ -280,7 +280,7 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 
 ## Freie Magazine zum Thema Programmieren (für Kinder)
 - [Hello World](https://helloworld.raspberrypi.org/){:target="_blank"}  _(Englisch)_
-- [micro:mag](https://magazines.micromag.cc/){:target="_blank"}  _(Englisch)_
+- [micro:mag](https://micromag.raspikidd.com/Magazines){:target="_blank"}  _(Englisch)_
 - [The MagPi Magazine](https://magpi.raspberrypi.com/){:target="_blank"}  _(Englisch)_
 - [HackSpace](https://hackspace.raspberrypi.com/){:target="_blank"}  _(Englisch)_
 
