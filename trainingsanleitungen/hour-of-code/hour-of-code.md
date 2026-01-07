@@ -6,14 +6,20 @@ description: Lerne Programmieren mit Hour of Code
 
 # Programmieren lernen mit *Hour of Code*
 
-*Hour of Code* bietet einige [Anleitungen auf Deutsch](https://hourofcode.com/us/de/learn){:target="_blank"}. Auf dieser Seite haben wir ein paar aufgelistet die sich gut für Anfänger eignen
+*Hour of Code* bietet einige [Anleitungen auf Deutsch](https://csforall.org/en-US/activities/hour-of-code?term=&supportedLanguages=German){:target="_blank"}. Auf dieser Seite haben wir ein paar aufgelistet die sich gut für Anfänger eignen
 
 ## Anfänger: Programmieren mit Blöcken
 **Hinweis**
 Die "Hour of Code" Anleitungen beinhalten Videos in Englisch mit meist deutschem Untertitel. Man kann den Untertitel bei den Video Einstellungen einschalten. Nicht alle Videos haben deutsche Untertitel, beachte die Hinweise auf dieser Seite.
 
+**Tipp:** 
+Die *Hour of Code* Programmierspiele gibt es in vielen Sprachen. Du kannst die Sprache links unten im Browser-Fenster beim jeweiligen Spiel einstellen.
+
+1. ["Hello World"](https://code.org/de/hour-of-code/helloworld)<br>
+Lerne die Grundlagen der Informatik, indem du im Sprite Lab programmierst. Erstelle und animiere Sprites und erstelle eigene interaktiven Szenen.
+ 
 1. ![Star Wars](https://code.org/images/tutorials/resubmission/starwars.jpg){: .right}
-Kennst du den *BB-8* aus Star Wars? In *Hour of Code* bist du für seine Programmierung zuständig. Programmierspiel unter [https://hourofcode.com/star-wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1){:target="_blank"} starten...<br>
+Kennst du den *BB-8* aus Star Wars? In *Hour of Code* bist du für seine Programmierung zuständig. Programmierspiel unter [https://studio.code.org/courses/starwarsblocks](https://studio.code.org/courses/starwarsblocks/units/1/lessons/1/levels/1){:target="_blank"} starten...<br>
 **Was lernst du:** Einfache Befehle und Ereignisse (events)<br>
 **Schwierigkeit: *Einfach***<br>
 
@@ -55,8 +61,9 @@ Male schöne Muster mit dem Künstler ähnlich wie mit der Eiskönigin. Programm
 **Schwierigkeit: *Schwierig***(Rechnen mit Winkeln)<br>
 **Hinweis:** Drücke auf "Weniger" wenn der Text nicht auf Deutsch ist.
 
-1. ![Sprache einstellen](sprache-einstellen.png){: .right}
-**Tipp:** Die *Hour of Code* Programmierspiele gibt es in vielen Sprachen. Du kannst die Sprache links unten im Browser-Fenster beim jeweiligen Spiel einstellen.
+1. Machen Musik und lerne Programmieren mit [Music Lab: Jam Session!](https://studio.code.org/projects/music).
+In dieser selbstgeführten, einstündigen Aktivität kannst du Titel von Künstlern wie Lady Gaga und Shakira remixen, während du Grundlagen wie Sequenzierung programmieren und die KI-gesteuerte Beat-Erstellung erkundest. (_Englisch_)
+
 
 
 
