@@ -12,6 +12,7 @@ See the [jekyll documentation](https://jekyllrb.com/docs/) for more details on h
 ### Quickstart Howto
 
 * Install a full Ruby development environment
+    ```sudo apt install ruby-dev```
 * Install Jekyll and bundler gems<br>
     ```gem install jekyll bundler```
 * Change into the website directory<br>

@@ -15,6 +15,7 @@ __Vielen Dank an [CoderDojo Linz](https://coderdojo-linz.github.io/) für die he
 - [Online Programmierkurse für Kinder (Code it)](https://app.code-it-studio.de/){:target="_blank"}
 - [Run Marco](https://runmarco.allcancode.com/){:target="_blank"}: Im Browser den Weg einer Spielfigur mit der richtiger Befehlsreihenfolge programmieren.
 - [Programmieren mit der Maus](https://programmieren.wdrmaus.de/welcome){:target="_blank"}: Lerne mit einfachen Schritt-für-Schritt-Anleitungen das Programmieren mit Scratch-Blöcken mit der Maus vom WDR.
+- [Code it! - Online Programmierkurse für Kinder](https://app.code-it-studio.de/)
 
 ## Scratch (Fortgeschrittene) <img src="/images/Scratch_Cat.png" style="float:right;height:100px"/>
 
@@ -29,6 +30,7 @@ Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.htm
 - Das [CoderDojo Linz](http://coderdojol-linz.github.io){:target="_blank"} hat bereits eine Menge [Beispiele](https://linz.coderdojo.net/uebungsanleitungen/programmieren/scratch/){:target="_blank"} ausgearbeitet mit denen du starten kannst.
 - Auch das [CoderDojo Wien](https://wien.coderdojo.net){:target="_blank"} hat eine Menge [Übungsanleitungen](https://wien.coderdojo.net/exercises/#scratch){:target="_blank"} auf ihrer webseite.
 - In *Hour of Code* gibt es Scratch-Beispiele. Unter [https://hourofcode.com/scratchmus](https://hourofcode.com/scratchmus){:target="_blank"} kannst du zum Beispiel deine eigene Musik programmieren.
+- [Scratch auf der TüftelLab webseite](https://digital.tueftellab.de/mod/page/view.php?id=143%2F){:target="_blank"}
 - Auf der Webseite von [Raspberry Pi](https://www.raspberrypi.org){:target="_blank"} gibt es [einige Scratch Projekte auf Deutsch](https://projects.raspberrypi.org/de-DE/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"}, die sich besonders für Anfänger eignen.
 
 - [Scratch ideas](https://scratch.mit.edu/ideas){:target="_blank"} _(Englisch)_
@@ -40,7 +42,8 @@ Bei den unter [Hour of Code](/trainingsanleitungen/hour-of-code/hour-of-code.htm
 
 ### ScratchJr (Einsteiger) <img src="/images/ScratchJr_Cat.png" style="float:right;height:100px"/>
 Scratch gibt es auch als App für jüngere Kinder: [scratchjr.org](https://www.scratchjr.org/){:target="_blank"}
-- Die Tüftel Akademie hat einen Online Kurs "[Digitales Programmieren](https://tueftelakademie.de/fuer-lehrende/fortbildungen/digitales-programmieren-erste-schritte){:target="_blank"}" mit ScratchJr
+- Das TüftelLab hat [Online Kurse](https://digital.tueftellab.de/mod/page/view.php?id=144%2F){:target="_blank"}" mit ScratchJr
+
 
 ## LOGO
 [LOGO](https://de.wikipedia.org/wiki/Logo_(Programmiersprache)){:target="_blank"} ist eine bildungsorientierte funktionale Programmiersprache, die 1967 am MIT entworfen wurde. Logo ist leicht zu erlernen und war vor allem in den 1980er Jahren verbreitet, also zur Zeit der Heimcomputer.
@@ -57,7 +60,35 @@ In der [Schildkröten Akademie](https://turtleacademy.com/?lang=de_DE){:target="
 [TurtleCoder](https://www.code-your-life.org/Praxis/Logo_Turtle/1349_Der_TurtleCoder.htm){:target="_blank"} ist eine moderne Interpretation  von LOGO. Sie wurde für 9- bis 12-Jährige Kinder entwickelt. Der Grundsatz besteht darin, einer kleinen Schildkröte auf einer Zeichenfläche Befehle zu geben, die sofort nachvollziehbar „Spuren“ hinterlassen. Ziel ist vom einfachen Strich bis zu komplexen rekursiven Baum viele strukturelle Elemente des Programmierens selbstständig zu entdecken.
 TurtleCoder steht zur einfachen Nutzung in einem modernen Internetbrowser zur Verfügung.
 
+#### Programmieren mit dem TurtleCoder Videos Deutsch:
+- [Teil 1: Grundlegende Befehle & Schleifen](https://www.youtube.com/watch?v=c_c7sjwUXTE){:target="_blank"}
+- [Teil 2: Schleifen und Variablen](https://www.youtube.com/watch?v=M_1ve-YXqts){:target="_blank"}
+- [Teil 2: Schleifen und Variablen](https://www.youtube.com/watch?v=M_1ve-YXqts){:target="_blank"}
+- [Teil 3](https://www.youtube.com/watch?v=MXrSBrW1XgE){:target="_blank"}
+- [Teil 4: Sonderformat: Fraktale](https://www.youtube.com/watch?v=hMCnTri8FtY){:target="_blank"}
+- [Teil 5: Variablen](https://www.youtube.com/watch?v=qFv9tnzyxlg){:target="_blank"}
+- [Teil 6: Unterprogramme & neue Worte](https://www.youtube.com/watch?v=Bc-ZA3HvV6o){:target="_blank"}
+- [Teil 7: Vertiefung Unterprogramme](https://www.youtube.com/watch?v=yh9yOT7s54g){:target="_blank"}
+- [Teil 8: Sonderformat: Fraktale](https://www.youtube.com/watch?v=d6qaJnprd0Q){:target="_blank"}
+- [Teil 9: Random - Zufallskunst erstellen](https://www.youtube.com/watch?v=NoRFZovPtLk){:target="_blank"}
+- [Teil 10: Sonderformat: Oster-Spezial](https://www.youtube.com/watch?v=euSUMOWb58g){:target="_blank"}
+- [Teil 11: Bedingungen](https://www.youtube.com/watch?v=DKj0DwKLnOI){:target="_blank"}
 
+- [Teil 1: Erste Schritte](https://www.youtube.com/watch?v=j3xwUdR7sco){:target="_blank"}
+- [Teil 2: Befehle verändern](https://www.youtube.com/watch?v=qxUUNzvu-cg){:target="_blank"}
+- [Teil 3: Einführung Schleifen](https://www.youtube.com/watch?v=kjAJSU7OWUY){:target="_blank"}
+- [Teil 4: Einfache Mäander](https://www.youtube.com/watch?v=eUBU1pl-Q20){:target="_blank"}
+- [Teil 5: Komplizierte Mäander](https://www.youtube.com/watch?v=HSud-JuGCmc){:target="_blank"}
+- [Teil 6: Einfache Spiralen](https://www.youtube.com/watch?v=4VncUILlU1Q){:target="_blank"}
+- [Teil 7: Komplizierte Spiralen](https://www.youtube.com/watch?v=3Hf33qIrp14){:target="_blank"}
+- [Teil 8: Blume](https://www.youtube.com/watch?v=UH0dCjkk9U0){:target="_blank"}
+- [Teil 9: Vertiefung Funktionen](https://www.youtube.com/watch?v=cE6tyO6oyAs){:target="_blank"}
+- [Teil 10: Zufall](https://www.youtube.com/watch?v=6fcBJm6VWls){:target="_blank"}
+- [Teil 11: Kreatives Programmieren](https://www.youtube.com/watch?v=ofe4c7xqJNc){:target="_blank"}
+
+
+## ASCII Coder
+Mit dem [ASCII Coder](https://www.code-your-life.org/Praxis/1327_ASCII_Coder.htm){:target="_blank"} wird jeder selbst zum Künstler und generiert sich verschlüsselte Bildwelten. Mit den richtigen Zeilen Code verwandelt sich die ausgewählte Grafik in ein System aus Zahlen, Buchstaben und Zeichen. Es entstehen individuelle Piktogramme und Bilder.
 
 
 ## Hedy
@@ -98,7 +129,6 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 
 ### BBC micro:bit<img src="/images/BBC_micro_bit.png" style="float:right;height:100px"/>
 Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter Einplatinencomputer, der von der British Broadcasting Corporation im Juli 2015 vorgestellt wurde. Vorrangiges Ziel des Projekts ist die Verbesserung der Schulbildung im Bereich der Informationstechnik.
-
 - [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/microbit/uebungsanleitungen/){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#microbit){:target="_blank"}
 - [micro:bit](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/microbit/microbit.inc.php){:target="_blank"} auf [tigerjython4kids.ch](https://www.tigerjython4kids.ch/){:target="_blank"}
@@ -106,6 +136,7 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects?hardware%5B%5D=microbit){:target="_blank"}
 - [hackster.io Projekte](https://www.hackster.io/microbit){:target="_blank"}
 - [micro:bit - Das Schulbuch](https://microbit.eeducation.at/wiki/Hauptseite)
+- [TüftelLab micro:bit Videos](https://www.youtube.com/@TueftelLab/search?query=micro%3Abit){:target="_blank"}
 - [mirco:mag](https://magazines.micromag.cc/){:target="_blank"} _(pdf Magazine in Englisch)_
 
 ### Maqueen micro:bit Roboter<img src="/images/maqueen-plus-pour-microbit.webp" style="float:right;height:100px"/>
@@ -118,14 +149,37 @@ Maqueen kann z.B. in der MakeCode Browser-Programmierumgebung programmiert werde
 
 ### Calliope mini<img src="/images/calliope_mini.jpg" style="float:right;height:150px"/>
 Der [Calliope mini](https://calliope.cc/){:target="_blank"} ist ein deutscher Einplatinen-Computer mit einem 5x5-Ledfeld, verschiedenen Sensoren und Tasten.
+- [MakeCode for Calliope](https://makecode.calliope.cc/){:target="_blank"}
 - [Anleitungen auf der Calliope website](https://calliope.cc/schulen/zu-hause-lernen){:target="_blank"}
 - [Schulmaterial auf der Calliope website](https://calliope.cc/schulen/schulmaterial){:target="_blank"}
 - Projektideen der [Tüftel Akademie](https://tueftelakademie.de/fuer-lehrende/unterrichtsmaterialien/calliope-mini-grundschule/){:target="_blank"}
 - [Calliope mini auf code-your-life.org](https://www.code-your-life.org/Praxis/Calliope_mini/1300_Calliope.htm){:target="_blank"}
 - [Calliope mini auf tigerjython4kids.ch](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/calliope/calliope.inc.php){:target="_blank"}
 - [hackster.io Projekte](https://www.hackster.io/calliope-mini){:target="_blank"}
+- [Calliope mini auf TüftelLab](https://digital.tueftellab.de/mod/page/view.php?id=463%2F){:target="_blank"}
 
-### Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:160px"/>
+#### Videos Deutsch
+- [Hallo Welt – Dein erstes Programm, Programmieren mit dem Calliope Mini](https://www.youtube.com/watch?v=V-M41Ou-Eo8){:target="_blank"}
+- [Programmieren mit dem Calliope-Mini Teil 1: Grundlagen](https://www.youtube.com/watch?v=S51aRizY8_g){:target="_blank"}
+- [Programmieren mit dem Calliope Mini Teil 2: Musik machen](https://www.youtube.com/watch?v=hAE2zhfuaoo){:target="_blank"}
+- [Programmieren mit dem Calliope Mini Teil 3: Wetterstation](https://www.youtube.com/watch?v=o69sROENE1c){:target="_blank"}
+
+- [Programmieren mit dem Calliope Mini Smart Home Teil 1: Alarmanlage](https://www.youtube.com/watch?v=7yHdGZ6g9sw){:target="_blank"}
+- [Programmieren mit dem Calliope Mini SmartHome Teil 2: Bewegungsmelder](https://www.youtube.com/watch?v=cJXw1A2nExw){:target="_blank"}
+- [Programmieren mit dem Calliope Mini SmartHome Teil 3: Funk](https://www.youtube.com/watch?v=ABj7Wjy6NdA){:target="_blank"}
+- [Programmieren mit dem Calliope Mini SmartHome Teil 4: Bewässerungssystem](https://www.youtube.com/watch?v=M_1SvqAw6ig){:target="_blank"}
+- [Programmieren mit dem Calliope Mini SmartHome Teil 5: Thermostat](https://www.youtube.com/watch?v=k7KzlJTYVrw){:target="_blank"}
+- [Programmieren mit dem Calliope Mini SmartHome Teil 6: Finalisierung Smart Home](https://www.youtube.com/watch?v=fIW3_d4DoSI){:target="_blank"}
+
+- [Programmieren mit dem Calliope mini Spezial: Zufall](https://www.youtube.com/watch?v=FEso9dDn3_g){:target="_blank"}
+- [Programmieren mit dem Calliope mini Spezial: Lagesensor](https://www.youtube.com/watch?v=R9iTR6cozXQ){:target="_blank"}
+
+### Touch Board (Arduino)<img src="/images/touch board.png" style="float:right;height:80px"/>
+- [How to use a Bare Conductive Touch Board with Arduino](https://lab.arts.ac.uk/books/physical-computing/page/how-to-use-a-bare-conductive-touch-board-with-arduino){:target="_blank"} _Englisch_
+- [Arduino Erste Grundlagen auf https://www.code-your-life.org/](https://www.code-your-life.org/Akademie/Fuer_Jugendliche/1432_Arduino_Grundlagen.htm){:target="_blank"}
+
+### Thymio<img src="/trainingsanleitungen/thymio/thymio.jpg" style="float:right;height:150px"/>
+
 Der [Thymio](https://www.thymio.org/) ist ein kleiner, mobiler Roboter, der programmierbar ist und für pädagogische Zwecke konzipiert wurde.
 
 - [Erste Schritte (Thymio Website)](https://www.thymio.org/de/produkte/mit-thymio-suite-programmieren/){:target="_blank"}
@@ -143,6 +197,9 @@ Der [mBot](https://www.makeblock.com/mbot){:target="_blank"} ist ein Roboter-Bau
 - [Einführung und Aufgaben der PH St. Gallen](/trainingsanleitungen/mbot/mbot_aufgaben_PH_StGallen.pdf){:target="_blank"}
 - [Einführungsvideo und Aufgaben von code-your-life.org](https://www.code-your-life.org/Akademie/Fuer_Jugendliche/1447_Arduino_mBot_Hindernis.htm){:target="_blank"}
 
+#### Videos Deutsch
+- [Programmieren mit dem mBot Teil 1: Einführung](https://www.youtube.com/watch?v=pNniF5qNomg){:target="_blank"}
+- [Programmieren mit dem mBot Teil 2: Sensoren](https://www.youtube.com/watch?v=9_9iJ_k9ddc){:target="_blank"}
 
 ### CircuitMess Batmobile <img src="/images/CircuirMess_Batmobile.jpg" style="float:right;height:150px"/>
 Der CircuitMess Batmobile™ Elektronik Bausatz haben wir bereits zusammengebaut und ist bereit zum Programmieren. Sowohl das Batmobile™ als auch den dazugehörigen Kontroller können mit [CircuitBlocks](https://github.com/CircuitMess/CircuitBlocks/releases/){:target="_blank"} programmiert werden, eine anfängerfreundliche Codierungs-App, die es ermöglicht, benutzerdefinierte Lichtshows und Bewegungsabläufe zu erstellen. 
@@ -160,6 +217,12 @@ Der CircuitMess Batmobile™ Elektronik Bausatz haben wir bereits zusammengebaut
 - [BrainPad Arcade Projekte](https://arcade.makecode.com/){:target="_blank"} _(Englisch)_
 - [BrainPad Classic Projekte](https://classic.brainpad.com){:target="_blank"} _(Englisch)_
 
+#### Videos Englisch
+- [Putting the 'A' in STEAM with MakeCode Arcade](https://www.youtube.com/watch?v=SZqjZfHaibw){:target="_blank"} 
+- [Running MicroPython on the BrainPad](https://www.youtube.com/watch?v=u6MoDpUNQDc){:target="_blank"}
+- [Running Arduino on the BrainPad](https://www.youtube.com/watch?v=CIIIbwWzBDI){:target="_blank"}
+- [GoBeyond: Step-by-Step - Setting Up BrainPad to use Visual Studio](https://www.youtube.com/watch?v=TDvHfaDPlWk){:target="_blank"}
+
 
 ### Retro Arcade for Education <img src="/images/retro-makecode-arcade-for-education.jpg" style="float:right;height:150px"/>
 __Quick Start__
@@ -173,6 +236,7 @@ __Quick Start__
 ### Raspberry Pi <img src="/images/Raspberry_Pi_4.jpg" style="float:right;height:100px"/>
 Der Raspberry Pi ist ein Einplatinencomputer, der von der britischen Raspberry Pi Foundation entwickelt wurde. Der im Vergleich zu üblichen PCs sehr einfach aufgebaute Rechner wurde von der Stiftung mit dem Ziel entwickelt, jungen Menschen den Erwerb von Programmier- und Hardware-Kenntnissen zu erleichtern.
 
+- [Raspberry Pi Grundlagen auf code-your-life.org](https://www.code-your-life.org/Akademie/Fuer_Jugendliche/1433_Raspberry_Pi_Grundlagen.htm){:target="_blank"}
 - [Mit dem Raspberry Pi programmieren lernen in nur 4 einfachen Schritten](https://www.sivakids.de/raspberry-pi-programmieren/){:target="_blank"}
 - [Tutorials for Raspberry Pi (deutsch)](https://tutorials-raspberrypi.de/){:target="_blank"}
 - [Grundlagen und Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/loeten-und-elektronik/raspberry-pi/){:target="_blank"}
@@ -215,8 +279,8 @@ _App Inventor kann man auch ohne Gmail Konto nutzen [code.appinventor.mit.edu](h
 
 ### Unity
 Unity ist eine Laufzeit- und Entwicklungsumgebung für Spiele. Die in Unity eingebauten Mechanismen können über selbst geschriebene Programme, sogenannte Skripte, ergänzt werden. Skripte sind notwendig, um Spielablauf und -logik zu beschreiben. Das Skripting in Unity basiert auf Mono und bietet als mögliche Skriptsprache C#. 
-- [Tutorials Englisch](https://learn.unity.com/){:target="_blank"}
-- [Hour of Code - Creator Kit: Beginner Coding](https://learn.unity.com/project/hour-of-code-creator-kit-beginner-coding){:target="_blank"}
+- [Tutorials](https://learn.unity.com/){:target="_blank"} _(Englisch)_
+- [Hour of Code - Creator Kit: Beginner Coding](https://learn.unity.com/project/hour-of-code-creator-kit-beginner-coding){:target="_blank"} _(Englisch)_
 - [Projekte auf projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects?software%5B%5D=unity){:target="_blank"} _(Englisch)_
 - [Raspberry Pi Foundation learning path](https://projects.raspberrypi.org/en/collections/unity){:target="_blank"} _(Englisch)_
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/unity/erste-schritte-mit-unity/){:target="_blank"}
@@ -237,6 +301,26 @@ Unreal Engine ist eine Grafik-Engine von Epic Games. Das Framework der Unreal En
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/minecraft/){:target="_blank"}
 - [The MagPi Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1){:target="_blank"} _(Buch als pdf in Englisch)_
 
+### Videos Deutsch
+- [Programmieren in Minecraft](https://www.youtube.com/watch?v=F3qFUisUYOg){:target="_blank"}
+- [Programmieren mit Minecraft Edu](https://www.youtube.com/watch?v=1v4wfqeOxNs){:target="_blank"}
+- [Programmieren mit Minecraft: erste Schritte](https://www.youtube.com/watch?v=LqrIHanraHk){:target="_blank"}
+- [Programmieren mit Minecraft: Teil 2](https://www.youtube.com/watch?v=RhE-L6R3Tg0){:target="_blank"}
+- [Programmieren mit Minecraft: Teil 3](https://www.youtube.com/watch?v=E7ytd2sTxLA){:target="_blank"}
+- [Blockhelden - Teil 1: Installation & Übersicht](https://www.youtube.com/watch?v=3J9RFGL3ljc){:target="_blank"}
+- [Blockhelden - Teil 2: Anpassung & zusammen spielen](https://www.youtube.com/watch?v=C4LQrQgs4UY){:target="_blank"}
+- [Blockhelden - Teil 3: Dein erstes Programm in Minecraft](https://www.youtube.com/watch?v=S0IGVDrryv8){:target="_blank"}
+- [Blockhelden - Teil 4: Schleifen in Minecraft](https://www.youtube.com/watch?v=hRp-3bQrCPE){:target="_blank"}
+- [Blockhelden - Teil 5: Fallunterscheidungen](https://www.youtube.com/watch?v=1I-00Oh5wxQ){:target="_blank"}
+- [Blockhelden - Teil 6: Wiederholungen](https://www.youtube.com/watch?v=r8i6ow8saXw){:target="_blank"}
+- [Blockhelden - Teil 7: Algorithmen](https://www.youtube.com/watch?v=gvinbEvA_Aw){:target="_blank"}
+- [Blockhelden - Teil 8: Logische Operatoren](https://www.youtube.com/watch?v=YQmZuCeffnM){:target="_blank"}
+- [Blockhelden - Teil 9: Unterprogramme](https://www.youtube.com/watch?v=QYzOUsnJq90){:target="_blank"}
+- [Blockhelden - Teil 10: Kreatives Programmieren](https://www.youtube.com/watch?v=2t8OAumoFO0){:target="_blank"}
+- [Blockhelden - Teil 11: Problemzerlegung](https://www.youtube.com/watch?v=83VRvaQD6FA){:target="_blank"}
+- [Blockhelden - Teil 12: Algorithmen mit Variablen](https://www.youtube.com/watch?v=DJOiZm-8QNY){:target="_blank"}
+- [Blockhelden - Teil 13: Kreatives Programmieren II](https://www.youtube.com/watch?v=zRdIytMLplI){:target="_blank"}
+
 ## Agent Cubes
 Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:target="_blank"} kannst du mit Blockcode Spiele programmieren und mit Freunden teilen.
 
@@ -246,21 +330,21 @@ Auf der Website [Agent Cubes](https://de.agentsheets.com/getting-started){:targe
 ## C# (C Sharp)
 - [Übungsanleitungen auf der CoderDojo Linz website](https://linz.coderdojo.net/uebungsanleitungen/programmieren/csharp/){:target="_blank"}
 - [Übungsanleitungen auf der CoderDojo Wien website](https://wien.coderdojo.net/exercises/#csharp){:target="_blank"}
+- [GoBeyond: Step-by-Step - Setting Up BrainPad to use Visual Studio](https://www.youtube.com/watch?v=TDvHfaDPlWk){:target="_blank"} _Englisch Video showing how to programm the BrainPad using C# and Visual Studio_
 
 
 ## TIC-80 tiny computer
 [TIC-80](https://tic80.com/){:target="_blank"} ist ein kostenloser und Open Source-Fantasy-Computer zum Erstellen, Spielen und Teilen kleiner Spiele.
 -[Github wiki](https://github.com/nesbox/TIC-80/wiki){:target="_blank"} _(Englisch)_
 
-## Andere Projekte Webseiten
+## Andere Webseiten
 - [CoderDojo Wien](https://wien.coderdojo.net/exercises/){:target="_blank"}
 - [CoderDojo Linz](https://linz.coderdojo.net/uebungsanleitungen/programmieren/){:target="_blank"}
 - [1, 2, 3 ... kodiert, programmiert, verschlüsselt! – Informatik in der Grund­schule (sonnentaler.net)](https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/){:target="_blank"}
 - [projects.raspberrypi.org](https://projects.raspberrypi.org/de-DE/projects){:target="_blank"}
-- [CoderDojo Sushi Cards Wiki](http://kata.coderdojo.com/wiki/Category:Sushi_Card){:target="_blank"}
 - [code-your-life.org](https://www.code-your-life.org/){:target="_blank"}
 - [Silicon Valley Kids](https://www.sivakids.de/){:target="_blank"}
-- [Code it! - Online Programmierkurse für Kinder](https://app.code-it-studio.de/)
+- [TüftelLab youtube Videos](https://www.youtube.com/@TueftelLab/videos)
 
 ## Freie Kurse auf code.org
 [studio.code.org/courses](https://studio.code.org/courses){:target="_blank"}
