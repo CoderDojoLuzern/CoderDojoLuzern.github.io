@@ -51,7 +51,7 @@ Stehst du auf Musik und Party? In *Hour of Code* kannst du eine Tanzparty codier
 **Hinweis:** Video hat keine deutschen Untertitel
 
 1. ![Eiskönigin](https://code.org/images/tutorials/resubmission/frozen.jpg){: .right}
-Bist du ein Fan von Anna und Elsa? In *Hour of Code* kannst du ihre Bewegungen programmieren und damit schöne Muster aufs Eis zeichnen. Programmierspiel unter [https://hourofcode.com/frzn](https://hourofcode.com/frzn){:target="_blank"} starten...<br>
+Bist du ein Fan von Anna und Elsa? In *Hour of Code* kannst du ihre Bewegungen programmieren und damit schöne Muster aufs Eis zeichnen. Programmierspiel unter [https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1](https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1){:target="_blank"} starten...<br>
 **Was lernst du:** Einfache Befehle, Schleifen (loops) und Funktionen (functions)<br>
 **Schwierigkeit: *Schwierig*** (Rechnen mit Winkeln)<br>
 
