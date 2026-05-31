@@ -27,12 +27,21 @@ Einplatinen-Computer sind kleine Computer die man programmieren kann und die div
 - [Retro Arcade for Education](https://shop.elecfreaks.com/products/elecfreaks-retro-makecode-arcade-for-education){:target="_blank"}
 - [Touch Board Inventors Kit](https://www.bareconductive.com/shop/touch-board-starter-kit/)
 
+## Erweiterungen für micro:bit
+- [HuskyLense](https://wiki.dfrobot.com/sen0305/){:target="_blank"} AI Kamera 
+- [IoT Expansion Board](https://wiki.dfrobot.com/mbt0012/){:target="_blank"}
+- [Gamepad](https://wiki.dfrobot.com/dfr0536/){:target="_blank"}
+- [Matrix LiDAR Distanz Sensor](https://wiki.dfrobot.com/sen0628/){:target="_blank"}
+- [Breadboard](https://wiki.dfrobot.com/mbt0009/){:target="_blank"}
+- [IO Erweiterung](https://wiki.dfrobot.com/mbt0008/){:target="_blank"}
+
 ## Roboter
 
 - [Thymio](https://www.thymio.org/){:target="_blank"}
 - [mBot](https://www.makeblock.com/mbot){:target="_blank"}
 - [Micro:Maqueen lite](https://www.dfrobot.com/product-1783.html){:target="_blank"}
-- [Micro:Maqueen Plus](https://www.dfrobot.com/product-2026.html){:target="_blank"}
+- [Micro:Maqueen Plus V2](https://www.dfrobot.com/product-2026.html){:target="_blank"}
+- [Micro:Maqueen Plus V3](https://www.dfrobot.com/product-2939.html){:target="_blank"}
 - [CircuitMess Batmobile](https://circuitmess.com/blogs/resources/batmobile-build-guide){:target="_blank"}
 
 ## Bausätze
