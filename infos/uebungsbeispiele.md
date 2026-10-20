@@ -104,7 +104,7 @@ Du hast schon Erfahrung mit grafischer Programmierung. Scratch-Spiele sind dir n
 
 - [Raspberry Pi Foundation learning path](https://projects.raspberrypi.org/en/collections/python){:target="_blank"} _(Englisch)_
 - [Hour of Python](https://hourofpython.com/){:target="_blank"} _(Englisch)_
-- [trinket](https://trinket.io/){:target="_blank"} _(Englisch)_
+- [Coddy Python-Turtle-Playground](https://coddy.tech/playground/de/turtle){:target="_blank"}
 - [Create Graphical User Interfaces with Python](https://magpi.raspberrypi.com/books/create-guis){:target="_blank"} _(Buch als pdf in Englisch)_
 - [The MagPi Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1){:target="_blank"} _(Buch als pdf in Englisch)_
 
