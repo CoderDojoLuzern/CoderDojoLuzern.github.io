@@ -140,8 +140,8 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 - [mirco:mag](https://magazines.micromag.cc/){:target="_blank"} _(pdf Magazine in Englisch)_
 - [Gamepad](https://wiki.dfrobot.com/dfr0536/){:target="_blank"}
 - [Matrix LiDAR Distanz Sensor](https://wiki.dfrobot.com/sen0628/){:target="_blank"}
-- [Breadboard](https://wiki.dfrobot.com/mbt0009/){:target="_blank"}
-- [IO Erweiterung](https://wiki.dfrobot.com/mbt0008/){:target="_blank"}
+- [micro: Breadboard (V2.0)](https://wiki.dfrobot.com/mbt0009/){:target="_blank"}
+- [micro: IO Erweiterung](https://wiki.dfrobot.com/mbt0008/){:target="_blank"}
 
 #### IoT Expansion Board<img src="/images/micro-iot-microbit-iot-expansion-board-1.webp" style="float:right;height:80px"/>
 - [IoT Expansion Board](https://wiki.dfrobot.com/mbt0012/){:target="_blank"}
