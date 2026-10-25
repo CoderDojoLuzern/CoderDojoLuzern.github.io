@@ -51,7 +51,7 @@ title: Termine
 			if (event.location) {
 				row += event.location;
 			} else {
-					row += "<a href=\"https://www.google.com/maps/place/bbv+Software+Services+AG/@47.0638419,8.3090783,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x67769a64439d9bad!8m2!3d47.0638419!4d8.311267\" target=\"_blank\">bbv Software Services AG</a>, 2. Stock, Blumenrain 10, 6002 Luzern";
+					row += "<a href=\"https://www.google.com/maps/place/bbv+Software+Services+AG/@47.0638419,8.3090783,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x67769a64439d9bad!8m2!3d47.0638419!4d8.311267\" target=\"_blank\">bbv Software Services AG</a>, 2. Stock, Blumenrain 10, 6006 Luzern";
 			}
 			row += "</td>";
 			row += "</tr>";
