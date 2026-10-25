@@ -138,6 +138,17 @@ Der [BBC micro:bit](https://microbit.org/){:target="_blank"} ist ein preiswerter
 - [micro:bit - Das Schulbuch](https://microbit.eeducation.at/wiki/Hauptseite)
 - [TüftelLab micro:bit Videos](https://www.youtube.com/@TueftelLab/search?query=micro%3Abit){:target="_blank"}
 - [mirco:mag](https://magazines.micromag.cc/){:target="_blank"} _(pdf Magazine in Englisch)_
+- [Gamepad](https://wiki.dfrobot.com/dfr0536/){:target="_blank"}
+- [Matrix LiDAR Distanz Sensor](https://wiki.dfrobot.com/sen0628/){:target="_blank"}
+- [Breadboard](https://wiki.dfrobot.com/mbt0009/){:target="_blank"}
+- [IO Erweiterung](https://wiki.dfrobot.com/mbt0008/){:target="_blank"}
+
+#### IoT Expansion Board<img src="/images/micro-iot-microbit-iot-expansion-board-1.webp" style="float:right;height:80px"/>
+- [IoT Expansion Board](https://wiki.dfrobot.com/mbt0012/){:target="_blank"}
+
+### HuskyLense
+- [HuskyLense](https://wiki.dfrobot.com/sen0305/){:target="_blank"} AI Kamera<img src="/images/HuskyLense_150x100.jpg.webp" style="float:right;height:50px"/> 
+- [HuskyLense 2](https://wiki.dfrobot.com/sen0638/){:target="_blank"} AI Kamera Version 2<img src="/images/huskylens-2-camara-ai.webp" style="float:right;height:50px"/>
 
 ### Maqueen micro:bit Roboter<img src="/images/maqueen-plus-pour-microbit.webp" style="float:right;height:100px"/>
 Maqueen micro:bit Robot ist ein Roboter, der von einem micro:bit gesteuert wird. Maqueen hat zwei Räder, die unabhängig angesteuert werden können, LEDS, Sensoren, ...

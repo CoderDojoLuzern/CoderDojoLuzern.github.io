@@ -29,6 +29,7 @@ Einplatinen-Computer sind kleine Computer die man programmieren kann und die div
 
 ## Erweiterungen für micro:bit
 - [HuskyLense](https://wiki.dfrobot.com/sen0305/){:target="_blank"} AI Kamera 
+- [HuskyLense 2](https://wiki.dfrobot.com/sen0638/){:target="_blank"} AI Kamera Version 2
 - [IoT Expansion Board](https://wiki.dfrobot.com/mbt0012/){:target="_blank"}
 - [Gamepad](https://wiki.dfrobot.com/dfr0536/){:target="_blank"}
 - [Matrix LiDAR Distanz Sensor](https://wiki.dfrobot.com/sen0628/){:target="_blank"}
